@@ -1,0 +1,432 @@
+country_code,country_name,hs_code,product_name,category,export_value_usd,complexity_tier,year
+IDN,Indonesia,2709,"Petroleum oils, crude",Natural Resources,195185.3447493553,low,2022
+IDN,Indonesia,2701,Coal,Natural Resources,3413570.870615881,low,2022
+IDN,Indonesia,1511,Palm oil,Agriculture,42452261.30386339,low,2022
+IDN,Indonesia,4001,Natural rubber,Agriculture,5580949.372384843,low,2022
+IDN,Indonesia,4407,Wood sawn lengthwise,Forestry,376338.2924944737,low,2022
+IDN,Indonesia,4403,Wood in the rough,Forestry,420693.7383751835,low,2022
+IDN,Indonesia,0803,Bananas,Agriculture,6469.809701451125,low,2022
+IDN,Indonesia,0901,Coffee,Agriculture,8046432.349763055,low,2022
+IDN,Indonesia,1801,Cocoa beans,Agriculture,510889.12628801994,low,2022
+IDN,Indonesia,2603,Copper ores,Mining,272443.4437740852,low,2022
+IDN,Indonesia,2608,Zinc ores,Mining,341481.94201158965,low,2022
+IDN,Indonesia,7108,Gold,Mining,3974624.888025078,low,2022
+IDN,Indonesia,6403,"Footwear, leather",Light Manufacturing,564919.3917296991,medium,2022
+IDN,Indonesia,6204,Womens suits,Textiles,157807.0993325554,medium,2022
+IDN,Indonesia,4011,"Pneumatic tires, rubber",Manufacturing,133184.71786833892,medium,2022
+IDN,Indonesia,7308,Structures of iron/steel,Metals,2942822.2919504917,medium,2022
+IDN,Indonesia,3004,Medicaments,Pharmaceuticals,430630.4387308045,medium,2022
+IDN,Indonesia,3920,"Plates, sheets, plastic",Plastics,53347.273103558015,medium,2022
+IDN,Indonesia,8704,Motor vehicles for goods,Automotive,671807.546942271,medium,2022
+IDN,Indonesia,8708,Vehicle parts,Automotive,8783.759220606222,medium,2022
+IDN,Indonesia,8471,Automatic data processing machines,Electronics,252023.2520074334,high,2022
+IDN,Indonesia,8473,Parts for office machines,Electronics,949339.8031107727,high,2022
+IDN,Indonesia,9018,Medical instruments,Medical,11010.93121630052,high,2022
+IDN,Indonesia,3002,"Human blood, vaccines",Pharmaceuticals,27968.033266572045,high,2022
+USA,United States,8471,Automatic data processing machines,Electronics,844209.5285877555,high,2022
+USA,United States,8542,Electronic integrated circuits,Electronics,11109960.182563774,high,2022
+USA,United States,8541,"Diodes, transistors",Electronics,19553496.161892876,high,2022
+USA,United States,8703,Motor cars,Automotive,14797896.414685702,high,2022
+USA,United States,8483,Transmission shafts,Machinery,160122.3390177836,high,2022
+USA,United States,2933,Heterocyclic compounds,Chemicals,29482102.77384973,high,2022
+USA,United States,2902,Cyclic hydrocarbons,Chemicals,16602297.45723353,high,2022
+USA,United States,3002,"Human blood, vaccines",Pharmaceuticals,49252961.56833527,high,2022
+USA,United States,6403,"Footwear, leather",Light Manufacturing,2478767.5775704556,medium,2022
+USA,United States,6110,"Jerseys, pullovers",Textiles,330962.54497782444,medium,2022
+USA,United States,6203,"Mens suits, cotton",Textiles,1119449.855089953,medium,2022
+USA,United States,6204,Womens suits,Textiles,27488747.89988205,medium,2022
+USA,United States,4011,"Pneumatic tires, rubber",Manufacturing,1431300.6531081146,medium,2022
+USA,United States,7210,Flat-rolled iron/steel,Metals,661314.8300869494,medium,2022
+USA,United States,7308,Structures of iron/steel,Metals,775029.3854489421,medium,2022
+USA,United States,3004,Medicaments,Pharmaceuticals,2456443.531689848,medium,2022
+USA,United States,3923,"Articles for transport/packing, plastic",Plastics,238711.93097452007,medium,2022
+USA,United States,3920,"Plates, sheets, plastic",Plastics,440861.44122686266,medium,2022
+USA,United States,4819,"Cartons, boxes, paper",Paper,7502930.499104646,medium,2022
+USA,United States,8704,Motor vehicles for goods,Automotive,2320984.9926082655,medium,2022
+USA,United States,2709,"Petroleum oils, crude",Natural Resources,1274154.2718979067,low,2022
+USA,United States,2701,Coal,Natural Resources,211785.64654257926,low,2022
+USA,United States,4407,Wood sawn lengthwise,Forestry,3032.7829085602175,low,2022
+USA,United States,1801,Cocoa beans,Agriculture,273286.75727336144,low,2022
+USA,United States,7108,Gold,Mining,239504.04524928637,low,2022
+CHN,China,2709,"Petroleum oils, crude",Natural Resources,1036238.7909817026,low,2022
+CHN,China,2701,Coal,Natural Resources,25911.899164963288,low,2022
+CHN,China,2710,"Petroleum oils, refined",Natural Resources,1140494.21584915,low,2022
+CHN,China,0801,"Coconuts, Brazil nuts",Agriculture,321783.8722987264,low,2022
+CHN,China,4001,Natural rubber,Agriculture,1212111.707008268,low,2022
+CHN,China,4407,Wood sawn lengthwise,Forestry,381010.26072128554,low,2022
+CHN,China,4403,Wood in the rough,Forestry,517623.5705662311,low,2022
+CHN,China,0803,Bananas,Agriculture,5579410.465393414,low,2022
+CHN,China,0901,Coffee,Agriculture,120621.74393732738,low,2022
+CHN,China,1801,Cocoa beans,Agriculture,241915.63128534902,low,2022
+CHN,China,2603,Copper ores,Mining,19154178.30161679,low,2022
+CHN,China,2608,Zinc ores,Mining,206636.88702712997,low,2022
+CHN,China,7108,Gold,Mining,1402532.2309285353,low,2022
+CHN,China,6204,Womens suits,Textiles,19903.943120994292,medium,2022
+CHN,China,4011,"Pneumatic tires, rubber",Manufacturing,507436.03858578426,medium,2022
+CHN,China,7308,Structures of iron/steel,Metals,1530486.829424422,medium,2022
+CHN,China,4819,"Cartons, boxes, paper",Paper,320656.3430638378,medium,2022
+CHN,China,8704,Motor vehicles for goods,Automotive,2251336.1328225955,medium,2022
+CHN,China,8708,Vehicle parts,Automotive,37732.28477815071,medium,2022
+CHN,China,8517,"Telephone sets, smartphones",Electronics,6535.69212464264,high,2022
+CHN,China,8473,Parts for office machines,Electronics,235453.26368757992,high,2022
+CHN,China,8542,Electronic integrated circuits,Electronics,9135.444299022742,high,2022
+CHN,China,8541,"Diodes, transistors",Electronics,1761109.4050812256,high,2022
+CHN,China,8528,"Monitors, projectors",Electronics,559770.2390010658,high,2022
+CHN,China,8483,Transmission shafts,Machinery,1856384.9773499605,high,2022
+CHN,China,9018,Medical instruments,Medical,230882.92064475757,high,2022
+CHN,China,2933,Heterocyclic compounds,Chemicals,14275.359459836343,high,2022
+CHN,China,2902,Cyclic hydrocarbons,Chemicals,707152.8592334696,high,2022
+JPN,Japan,8517,"Telephone sets, smartphones",Electronics,484564.3292830241,high,2022
+JPN,Japan,8471,Automatic data processing machines,Electronics,22448901.915101495,high,2022
+JPN,Japan,8473,Parts for office machines,Electronics,7463700.194783774,high,2022
+JPN,Japan,8542,Electronic integrated circuits,Electronics,2001132.3793898984,high,2022
+JPN,Japan,8541,"Diodes, transistors",Electronics,723986.2440707119,high,2022
+JPN,Japan,8528,"Monitors, projectors",Electronics,2801867.1191210947,high,2022
+JPN,Japan,8703,Motor cars,Automotive,6467524.295797716,high,2022
+JPN,Japan,8407,Spark-ignition engines,Machinery,3355139.0856421883,high,2022
+JPN,Japan,8483,Transmission shafts,Machinery,59833014.84674071,high,2022
+JPN,Japan,9018,Medical instruments,Medical,11425230.796305116,high,2022
+JPN,Japan,2933,Heterocyclic compounds,Chemicals,588707.5896582652,high,2022
+JPN,Japan,3002,"Human blood, vaccines",Pharmaceuticals,2550334.849993558,high,2022
+JPN,Japan,6403,"Footwear, leather",Light Manufacturing,5286577.589159399,medium,2022
+JPN,Japan,6110,"Jerseys, pullovers",Textiles,486540.5537528984,medium,2022
+JPN,Japan,6203,"Mens suits, cotton",Textiles,5689310.321080759,medium,2022
+JPN,Japan,6204,Womens suits,Textiles,188698.68480717324,medium,2022
+JPN,Japan,4011,"Pneumatic tires, rubber",Manufacturing,431088.79326727643,medium,2022
+JPN,Japan,7210,Flat-rolled iron/steel,Metals,4240322.464235571,medium,2022
+JPN,Japan,3004,Medicaments,Pharmaceuticals,40868695.820936196,medium,2022
+JPN,Japan,3923,"Articles for transport/packing, plastic",Plastics,1351083.521333612,medium,2022
+JPN,Japan,3920,"Plates, sheets, plastic",Plastics,122278.85403804918,medium,2022
+JPN,Japan,4819,"Cartons, boxes, paper",Paper,10491778.268419294,medium,2022
+JPN,Japan,8704,Motor vehicles for goods,Automotive,9895632.974214217,medium,2022
+JPN,Japan,2709,"Petroleum oils, crude",Natural Resources,256959.4783886233,low,2022
+JPN,Japan,2701,Coal,Natural Resources,239380.88811169285,low,2022
+JPN,Japan,0801,"Coconuts, Brazil nuts",Agriculture,1198189.2202339037,low,2022
+JPN,Japan,4001,Natural rubber,Agriculture,716622.0944824226,low,2022
+JPN,Japan,4407,Wood sawn lengthwise,Forestry,28887.144337190544,low,2022
+DEU,Germany,8473,Parts for office machines,Electronics,162504.86415827853,high,2022
+DEU,Germany,8542,Electronic integrated circuits,Electronics,3717492.8656577216,high,2022
+DEU,Germany,8541,"Diodes, transistors",Electronics,378704.1014384536,high,2022
+DEU,Germany,8528,"Monitors, projectors",Electronics,758627.9384846819,high,2022
+DEU,Germany,8407,Spark-ignition engines,Machinery,5040002.717147377,high,2022
+DEU,Germany,8483,Transmission shafts,Machinery,49966881.898481615,high,2022
+DEU,Germany,9018,Medical instruments,Medical,17150398.28993981,high,2022
+DEU,Germany,2933,Heterocyclic compounds,Chemicals,26589833.14217653,high,2022
+DEU,Germany,2902,Cyclic hydrocarbons,Chemicals,929926.1980533103,high,2022
+DEU,Germany,3002,"Human blood, vaccines",Pharmaceuticals,698270.5013951237,high,2022
+DEU,Germany,6204,Womens suits,Textiles,33351171.635775026,medium,2022
+DEU,Germany,4011,"Pneumatic tires, rubber",Manufacturing,96590.1541728859,medium,2022
+DEU,Germany,7210,Flat-rolled iron/steel,Metals,7539933.302400618,medium,2022
+DEU,Germany,7308,Structures of iron/steel,Metals,83830913.53496054,medium,2022
+DEU,Germany,3004,Medicaments,Pharmaceuticals,9482234.195568189,medium,2022
+DEU,Germany,3920,"Plates, sheets, plastic",Plastics,748043.2510816666,medium,2022
+DEU,Germany,8704,Motor vehicles for goods,Automotive,50830715.26047139,medium,2022
+DEU,Germany,8708,Vehicle parts,Automotive,725679.4716506201,medium,2022
+DEU,Germany,2701,Coal,Natural Resources,25042.38897599535,low,2022
+DEU,Germany,2710,"Petroleum oils, refined",Natural Resources,134239.63198012218,low,2022
+DEU,Germany,1511,Palm oil,Agriculture,80943.19109717655,low,2022
+DEU,Germany,4001,Natural rubber,Agriculture,37336.88621028731,low,2022
+DEU,Germany,4403,Wood in the rough,Forestry,325512.19696224254,low,2022
+DEU,Germany,1801,Cocoa beans,Agriculture,9451.554707489355,low,2022
+DEU,Germany,2603,Copper ores,Mining,1111044.5229888102,low,2022
+SGP,Singapore,8517,"Telephone sets, smartphones",Electronics,7870674.171604828,high,2022
+SGP,Singapore,8471,Automatic data processing machines,Electronics,2631341.1650775205,high,2022
+SGP,Singapore,8407,Spark-ignition engines,Machinery,2155979.0616213353,high,2022
+SGP,Singapore,8483,Transmission shafts,Machinery,1219556.8715429949,high,2022
+SGP,Singapore,2933,Heterocyclic compounds,Chemicals,941778.7658475921,high,2022
+SGP,Singapore,2902,Cyclic hydrocarbons,Chemicals,1605623.508890467,high,2022
+SGP,Singapore,3002,"Human blood, vaccines",Pharmaceuticals,6743083.183295408,high,2022
+SGP,Singapore,6403,"Footwear, leather",Light Manufacturing,3846323.3196589015,medium,2022
+SGP,Singapore,6204,Womens suits,Textiles,33679.909326158275,medium,2022
+SGP,Singapore,4011,"Pneumatic tires, rubber",Manufacturing,104700.56481380473,medium,2022
+SGP,Singapore,7210,Flat-rolled iron/steel,Metals,26848474.231945638,medium,2022
+SGP,Singapore,7308,Structures of iron/steel,Metals,499300.9249854351,medium,2022
+SGP,Singapore,3923,"Articles for transport/packing, plastic",Plastics,16369945.40550821,medium,2022
+SGP,Singapore,3920,"Plates, sheets, plastic",Plastics,1254199.0043844045,medium,2022
+SGP,Singapore,4819,"Cartons, boxes, paper",Paper,2299799.964077544,medium,2022
+SGP,Singapore,8704,Motor vehicles for goods,Automotive,927004.6783181285,medium,2022
+SGP,Singapore,8708,Vehicle parts,Automotive,234112.87118447968,medium,2022
+SGP,Singapore,2710,"Petroleum oils, refined",Natural Resources,3754932.674759621,low,2022
+SGP,Singapore,1511,Palm oil,Agriculture,415060.5638604646,low,2022
+SGP,Singapore,0901,Coffee,Agriculture,417699.7967518878,low,2022
+SGP,Singapore,7108,Gold,Mining,47413.83803059973,low,2022
+MYS,Malaysia,2701,Coal,Natural Resources,1957883.1518309233,low,2022
+MYS,Malaysia,1511,Palm oil,Agriculture,468796.1893833201,low,2022
+MYS,Malaysia,4001,Natural rubber,Agriculture,1912840.5127468973,low,2022
+MYS,Malaysia,4407,Wood sawn lengthwise,Forestry,12099911.261961013,low,2022
+MYS,Malaysia,4403,Wood in the rough,Forestry,462886.2112614773,low,2022
+MYS,Malaysia,0803,Bananas,Agriculture,318553.3084285894,low,2022
+MYS,Malaysia,1801,Cocoa beans,Agriculture,18259987.206413873,low,2022
+MYS,Malaysia,2603,Copper ores,Mining,6684615.475726397,low,2022
+MYS,Malaysia,7108,Gold,Mining,873377.3093972928,low,2022
+MYS,Malaysia,6110,"Jerseys, pullovers",Textiles,843602.8624150935,medium,2022
+MYS,Malaysia,6203,"Mens suits, cotton",Textiles,84587.18976363681,medium,2022
+MYS,Malaysia,6204,Womens suits,Textiles,355926.56237335317,medium,2022
+MYS,Malaysia,7210,Flat-rolled iron/steel,Metals,987985.6419625926,medium,2022
+MYS,Malaysia,3004,Medicaments,Pharmaceuticals,692584.1068618554,medium,2022
+MYS,Malaysia,3920,"Plates, sheets, plastic",Plastics,453696.97651313775,medium,2022
+MYS,Malaysia,4819,"Cartons, boxes, paper",Paper,41930439.26045514,medium,2022
+MYS,Malaysia,8704,Motor vehicles for goods,Automotive,996947.4805757566,medium,2022
+MYS,Malaysia,8708,Vehicle parts,Automotive,4880816.585020824,medium,2022
+MYS,Malaysia,8517,"Telephone sets, smartphones",Electronics,6151309.724777224,high,2022
+MYS,Malaysia,8542,Electronic integrated circuits,Electronics,130370.55903873002,high,2022
+MYS,Malaysia,8541,"Diodes, transistors",Electronics,1146951.6628262973,high,2022
+MYS,Malaysia,2902,Cyclic hydrocarbons,Chemicals,3549.5885199266027,high,2022
+MYS,Malaysia,3002,"Human blood, vaccines",Pharmaceuticals,336029.0580879626,high,2022
+THA,Thailand,2709,"Petroleum oils, crude",Natural Resources,5303757.200165108,low,2022
+THA,Thailand,2701,Coal,Natural Resources,23053248.514466662,low,2022
+THA,Thailand,2710,"Petroleum oils, refined",Natural Resources,1037970.3403088828,low,2022
+THA,Thailand,1511,Palm oil,Agriculture,683893.5952650402,low,2022
+THA,Thailand,0801,"Coconuts, Brazil nuts",Agriculture,2171557.15004876,low,2022
+THA,Thailand,4001,Natural rubber,Agriculture,133961.5721582317,low,2022
+THA,Thailand,4407,Wood sawn lengthwise,Forestry,2087067.0557934367,low,2022
+THA,Thailand,4403,Wood in the rough,Forestry,2099996.151223636,low,2022
+THA,Thailand,0803,Bananas,Agriculture,967763.1647628548,low,2022
+THA,Thailand,0901,Coffee,Agriculture,1076289.5514941965,low,2022
+THA,Thailand,1801,Cocoa beans,Agriculture,24952052.613793172,low,2022
+THA,Thailand,2603,Copper ores,Mining,2246574.0339613874,low,2022
+THA,Thailand,2608,Zinc ores,Mining,643033.8100522186,low,2022
+THA,Thailand,6403,"Footwear, leather",Light Manufacturing,18065.386800057553,medium,2022
+THA,Thailand,6110,"Jerseys, pullovers",Textiles,1836238.5229363656,medium,2022
+THA,Thailand,6203,"Mens suits, cotton",Textiles,46663.41893839344,medium,2022
+THA,Thailand,6204,Womens suits,Textiles,859948.7074570324,medium,2022
+THA,Thailand,4011,"Pneumatic tires, rubber",Manufacturing,99015.02911991099,medium,2022
+THA,Thailand,7210,Flat-rolled iron/steel,Metals,4678997.184549689,medium,2022
+THA,Thailand,7308,Structures of iron/steel,Metals,506377.1178243013,medium,2022
+THA,Thailand,3004,Medicaments,Pharmaceuticals,268893.7779370459,medium,2022
+THA,Thailand,4819,"Cartons, boxes, paper",Paper,3088332.6318963924,medium,2022
+THA,Thailand,8704,Motor vehicles for goods,Automotive,64225.337622830535,medium,2022
+THA,Thailand,8528,"Monitors, projectors",Electronics,641845.5131528636,high,2022
+THA,Thailand,8483,Transmission shafts,Machinery,4227963.914894098,high,2022
+THA,Thailand,9018,Medical instruments,Medical,10298.948520004693,high,2022
+THA,Thailand,2933,Heterocyclic compounds,Chemicals,5395.039079349813,high,2022
+THA,Thailand,3002,"Human blood, vaccines",Pharmaceuticals,145641.67485759946,high,2022
+VNM,Vietnam,2709,"Petroleum oils, crude",Natural Resources,3337791.212735701,low,2022
+VNM,Vietnam,4403,Wood in the rough,Forestry,33052.33955439729,low,2022
+VNM,Vietnam,0901,Coffee,Agriculture,395212.0063791006,low,2022
+VNM,Vietnam,1801,Cocoa beans,Agriculture,2468833.1224112706,low,2022
+VNM,Vietnam,8704,Motor vehicles for goods,Automotive,20960.850984390643,medium,2022
+VNM,Vietnam,8708,Vehicle parts,Automotive,82534.35138636935,medium,2022
+VNM,Vietnam,8517,"Telephone sets, smartphones",Electronics,18610.997072858278,high,2022
+IND,India,2709,"Petroleum oils, crude",Natural Resources,297227.97645977436,low,2022
+IND,India,2701,Coal,Natural Resources,112896886.94955754,low,2022
+IND,India,1511,Palm oil,Agriculture,3319201.6349767274,low,2022
+IND,India,0801,"Coconuts, Brazil nuts",Agriculture,102856.43659104574,low,2022
+IND,India,4001,Natural rubber,Agriculture,86840.17239416129,low,2022
+IND,India,4403,Wood in the rough,Forestry,138160.1513602888,low,2022
+IND,India,0901,Coffee,Agriculture,63146.55625383275,low,2022
+IND,India,1801,Cocoa beans,Agriculture,2956733.8670408293,low,2022
+IND,India,2603,Copper ores,Mining,1434808.100564077,low,2022
+IND,India,7108,Gold,Mining,6862781.191794743,low,2022
+IND,India,3004,Medicaments,Pharmaceuticals,134371.69275790508,medium,2022
+IND,India,8483,Transmission shafts,Machinery,15391.611461491071,high,2022
+IND,India,9018,Medical instruments,Medical,5645.7284233407845,high,2022
+KOR,South Korea,8471,Automatic data processing machines,Electronics,3987458.4695393397,high,2022
+KOR,South Korea,8473,Parts for office machines,Electronics,14691420.57102127,high,2022
+KOR,South Korea,8542,Electronic integrated circuits,Electronics,868699.4456482151,high,2022
+KOR,South Korea,8541,"Diodes, transistors",Electronics,10233705.969523754,high,2022
+KOR,South Korea,8528,"Monitors, projectors",Electronics,126110.6687988877,high,2022
+KOR,South Korea,8407,Spark-ignition engines,Machinery,3599011.899255159,high,2022
+KOR,South Korea,8483,Transmission shafts,Machinery,334943.3000232466,high,2022
+KOR,South Korea,9018,Medical instruments,Medical,5584387.587623162,high,2022
+KOR,South Korea,2933,Heterocyclic compounds,Chemicals,2428774.069789816,high,2022
+KOR,South Korea,6403,"Footwear, leather",Light Manufacturing,532362.3921804607,medium,2022
+KOR,South Korea,6110,"Jerseys, pullovers",Textiles,360794.0739218822,medium,2022
+KOR,South Korea,6203,"Mens suits, cotton",Textiles,5501339.627993371,medium,2022
+KOR,South Korea,6204,Womens suits,Textiles,283033.8653737198,medium,2022
+KOR,South Korea,4011,"Pneumatic tires, rubber",Manufacturing,156363839.92286524,medium,2022
+KOR,South Korea,7210,Flat-rolled iron/steel,Metals,1688681.439027025,medium,2022
+KOR,South Korea,3923,"Articles for transport/packing, plastic",Plastics,1438034.5426533823,medium,2022
+KOR,South Korea,3920,"Plates, sheets, plastic",Plastics,946284.1389833209,medium,2022
+KOR,South Korea,4819,"Cartons, boxes, paper",Paper,1509756.4742080967,medium,2022
+KOR,South Korea,2701,Coal,Natural Resources,251365.2363496569,low,2022
+KOR,South Korea,1511,Palm oil,Agriculture,3660466.6526283724,low,2022
+KOR,South Korea,4001,Natural rubber,Agriculture,7652.695343373666,low,2022
+KOR,South Korea,0803,Bananas,Agriculture,35877.67567743627,low,2022
+KOR,South Korea,2603,Copper ores,Mining,564733.0224272505,low,2022
+KOR,South Korea,2608,Zinc ores,Mining,5903.478523938502,low,2022
+KOR,South Korea,7108,Gold,Mining,17714.17829161124,low,2022
+AUS,Australia,2701,Coal,Natural Resources,3466851.106313397,low,2022
+AUS,Australia,2710,"Petroleum oils, refined",Natural Resources,2517204.741634843,low,2022
+AUS,Australia,1511,Palm oil,Agriculture,512829.5296620483,low,2022
+AUS,Australia,4001,Natural rubber,Agriculture,1972090.0349673561,low,2022
+AUS,Australia,4403,Wood in the rough,Forestry,94754.92622029192,low,2022
+AUS,Australia,0803,Bananas,Agriculture,236677.06102495186,low,2022
+AUS,Australia,0901,Coffee,Agriculture,1967845.0765954051,low,2022
+AUS,Australia,2603,Copper ores,Mining,272181.6944231122,low,2022
+AUS,Australia,2608,Zinc ores,Mining,75979.99125092104,low,2022
+AUS,Australia,6110,"Jerseys, pullovers",Textiles,220666.74034892404,medium,2022
+AUS,Australia,3004,Medicaments,Pharmaceuticals,457465.5170127967,medium,2022
+AUS,Australia,8704,Motor vehicles for goods,Automotive,91121.85352345319,medium,2022
+AUS,Australia,8542,Electronic integrated circuits,Electronics,4071.498648853605,high,2022
+AUS,Australia,8703,Motor cars,Automotive,6729.716633886352,high,2022
+AUS,Australia,2902,Cyclic hydrocarbons,Chemicals,44676.48304145675,high,2022
+AUS,Australia,3002,"Human blood, vaccines",Pharmaceuticals,4992.004290939666,high,2022
+BRA,Brazil,2709,"Petroleum oils, crude",Natural Resources,935116.275909832,low,2022
+BRA,Brazil,2701,Coal,Natural Resources,1344388.5050853821,low,2022
+BRA,Brazil,2710,"Petroleum oils, refined",Natural Resources,10728164.493666261,low,2022
+BRA,Brazil,1511,Palm oil,Agriculture,876756.167817311,low,2022
+BRA,Brazil,0801,"Coconuts, Brazil nuts",Agriculture,512080.8799023278,low,2022
+BRA,Brazil,4407,Wood sawn lengthwise,Forestry,6612636.37041074,low,2022
+BRA,Brazil,4403,Wood in the rough,Forestry,11597.272870032532,low,2022
+BRA,Brazil,0803,Bananas,Agriculture,15252455.93777665,low,2022
+BRA,Brazil,0901,Coffee,Agriculture,233994.1902207628,low,2022
+BRA,Brazil,1801,Cocoa beans,Agriculture,126647.38205458407,low,2022
+BRA,Brazil,2603,Copper ores,Mining,892629.3093267678,low,2022
+BRA,Brazil,2608,Zinc ores,Mining,6009656.92119178,low,2022
+BRA,Brazil,7108,Gold,Mining,878149.5718327949,low,2022
+BRA,Brazil,6403,"Footwear, leather",Light Manufacturing,57850.400687113484,medium,2022
+BRA,Brazil,6110,"Jerseys, pullovers",Textiles,1243373.2628093008,medium,2022
+BRA,Brazil,6204,Womens suits,Textiles,76036162.42763352,medium,2022
+BRA,Brazil,7210,Flat-rolled iron/steel,Metals,498040.5946415017,medium,2022
+BRA,Brazil,3004,Medicaments,Pharmaceuticals,140459.71297400765,medium,2022
+BRA,Brazil,3920,"Plates, sheets, plastic",Plastics,148194.68352041167,medium,2022
+BRA,Brazil,4819,"Cartons, boxes, paper",Paper,7111078.92695532,medium,2022
+BRA,Brazil,8704,Motor vehicles for goods,Automotive,2167.429724821177,medium,2022
+BRA,Brazil,8708,Vehicle parts,Automotive,41979.77650224458,medium,2022
+BRA,Brazil,8471,Automatic data processing machines,Electronics,244605.89347379172,high,2022
+BRA,Brazil,8473,Parts for office machines,Electronics,9749.55196437599,high,2022
+BRA,Brazil,8542,Electronic integrated circuits,Electronics,34350.3203897065,high,2022
+BRA,Brazil,8407,Spark-ignition engines,Machinery,136156.14740804795,high,2022
+BRA,Brazil,2933,Heterocyclic compounds,Chemicals,172813.32921780346,high,2022
+MEX,Mexico,2709,"Petroleum oils, crude",Natural Resources,3272140.9023443484,low,2022
+MEX,Mexico,2701,Coal,Natural Resources,146309.9445979441,low,2022
+MEX,Mexico,1511,Palm oil,Agriculture,4984880.2369577605,low,2022
+MEX,Mexico,0801,"Coconuts, Brazil nuts",Agriculture,2924185.747503248,low,2022
+MEX,Mexico,4001,Natural rubber,Agriculture,138395.8511948,low,2022
+MEX,Mexico,4407,Wood sawn lengthwise,Forestry,4122091.3999989005,low,2022
+MEX,Mexico,4403,Wood in the rough,Forestry,2308863.6717695277,low,2022
+MEX,Mexico,0803,Bananas,Agriculture,98496.16055164872,low,2022
+MEX,Mexico,0901,Coffee,Agriculture,422757.479444176,low,2022
+MEX,Mexico,1801,Cocoa beans,Agriculture,9801230.055912508,low,2022
+MEX,Mexico,2603,Copper ores,Mining,53462.815451976036,low,2022
+MEX,Mexico,2608,Zinc ores,Mining,4041069.3386214096,low,2022
+MEX,Mexico,7108,Gold,Mining,18697.42670906114,low,2022
+MEX,Mexico,6110,"Jerseys, pullovers",Textiles,13162898.845004708,medium,2022
+MEX,Mexico,6203,"Mens suits, cotton",Textiles,3089887.932279344,medium,2022
+MEX,Mexico,6204,Womens suits,Textiles,415851.49765737023,medium,2022
+MEX,Mexico,4011,"Pneumatic tires, rubber",Manufacturing,32949250.658083837,medium,2022
+MEX,Mexico,3004,Medicaments,Pharmaceuticals,1697241.032881071,medium,2022
+MEX,Mexico,3923,"Articles for transport/packing, plastic",Plastics,33627.69426335376,medium,2022
+MEX,Mexico,8704,Motor vehicles for goods,Automotive,541249.0724115612,medium,2022
+MEX,Mexico,8542,Electronic integrated circuits,Electronics,63685.014302778305,high,2022
+MEX,Mexico,8703,Motor cars,Automotive,466902.0750504065,high,2022
+MEX,Mexico,8407,Spark-ignition engines,Machinery,4160171.637213013,high,2022
+MEX,Mexico,8483,Transmission shafts,Machinery,3763986.7915256275,high,2022
+MEX,Mexico,2933,Heterocyclic compounds,Chemicals,4097.988560604138,high,2022
+CHL,Chile,2701,Coal,Natural Resources,44212.43926807172,low,2022
+CHL,Chile,1511,Palm oil,Agriculture,147158.85883686788,low,2022
+CHL,Chile,0801,"Coconuts, Brazil nuts",Agriculture,35172.15599429667,low,2022
+CHL,Chile,4001,Natural rubber,Agriculture,76376.3326153731,low,2022
+CHL,Chile,4407,Wood sawn lengthwise,Forestry,2947757.3943080627,low,2022
+CHL,Chile,4403,Wood in the rough,Forestry,1075151.5878816776,low,2022
+CHL,Chile,0803,Bananas,Agriculture,617049.8061040653,low,2022
+CHL,Chile,2603,Copper ores,Mining,156976.5818120325,low,2022
+CHL,Chile,2608,Zinc ores,Mining,551070.3000871405,low,2022
+CHL,Chile,7108,Gold,Mining,3501464.9194753645,low,2022
+CHL,Chile,6203,"Mens suits, cotton",Textiles,20852.630082375377,medium,2022
+CHL,Chile,3004,Medicaments,Pharmaceuticals,154602.34892487744,medium,2022
+CHL,Chile,8708,Vehicle parts,Automotive,257514.59431726314,medium,2022
+CHL,Chile,8471,Automatic data processing machines,Electronics,3044.153565492139,high,2022
+CHL,Chile,3002,"Human blood, vaccines",Pharmaceuticals,15687.698849936796,high,2022
+POL,Poland,2709,"Petroleum oils, crude",Natural Resources,6180869.215352738,low,2022
+POL,Poland,2710,"Petroleum oils, refined",Natural Resources,1571742.30197509,low,2022
+POL,Poland,1511,Palm oil,Agriculture,1111131.7987087967,low,2022
+POL,Poland,0801,"Coconuts, Brazil nuts",Agriculture,4699663.153976667,low,2022
+POL,Poland,4001,Natural rubber,Agriculture,7854267.808937589,low,2022
+POL,Poland,4403,Wood in the rough,Forestry,428441.953556618,low,2022
+POL,Poland,0803,Bananas,Agriculture,149496.7977043574,low,2022
+POL,Poland,0901,Coffee,Agriculture,15492299.600509113,low,2022
+POL,Poland,2603,Copper ores,Mining,21724598.951332197,low,2022
+POL,Poland,2608,Zinc ores,Mining,1781755.2876343275,low,2022
+POL,Poland,7108,Gold,Mining,2051538.4472635626,low,2022
+POL,Poland,6203,"Mens suits, cotton",Textiles,2621511.430425929,medium,2022
+POL,Poland,4011,"Pneumatic tires, rubber",Manufacturing,1842804.5487123094,medium,2022
+POL,Poland,7210,Flat-rolled iron/steel,Metals,486034.27556392114,medium,2022
+POL,Poland,7308,Structures of iron/steel,Metals,5108119.554386046,medium,2022
+POL,Poland,3004,Medicaments,Pharmaceuticals,112773.47275074906,medium,2022
+POL,Poland,3923,"Articles for transport/packing, plastic",Plastics,2784712.0151214437,medium,2022
+POL,Poland,3920,"Plates, sheets, plastic",Plastics,828791.5267674872,medium,2022
+POL,Poland,4819,"Cartons, boxes, paper",Paper,15311.498326475283,medium,2022
+POL,Poland,8704,Motor vehicles for goods,Automotive,13131.930681479354,medium,2022
+POL,Poland,8407,Spark-ignition engines,Machinery,3403.7852419186734,high,2022
+POL,Poland,8483,Transmission shafts,Machinery,14547.993171175794,high,2022
+POL,Poland,2933,Heterocyclic compounds,Chemicals,1165481.4214897533,high,2022
+POL,Poland,2902,Cyclic hydrocarbons,Chemicals,106087.79781678558,high,2022
+TUR,Turkey,2709,"Petroleum oils, crude",Natural Resources,12412391.28474714,low,2022
+TUR,Turkey,2701,Coal,Natural Resources,30775119.57774553,low,2022
+TUR,Turkey,2710,"Petroleum oils, refined",Natural Resources,427168.01739773806,low,2022
+TUR,Turkey,1511,Palm oil,Agriculture,362997.49299792276,low,2022
+TUR,Turkey,0801,"Coconuts, Brazil nuts",Agriculture,445994.5036836742,low,2022
+TUR,Turkey,4001,Natural rubber,Agriculture,859211.3466810121,low,2022
+TUR,Turkey,4407,Wood sawn lengthwise,Forestry,569891.6096655709,low,2022
+TUR,Turkey,4403,Wood in the rough,Forestry,115019.80224720461,low,2022
+TUR,Turkey,0803,Bananas,Agriculture,2391035.7041848428,low,2022
+TUR,Turkey,0901,Coffee,Agriculture,566308.7470544307,low,2022
+TUR,Turkey,1801,Cocoa beans,Agriculture,134188049.6951397,low,2022
+TUR,Turkey,2603,Copper ores,Mining,7847272.703868275,low,2022
+TUR,Turkey,7108,Gold,Mining,353070.3539498195,low,2022
+TUR,Turkey,6403,"Footwear, leather",Light Manufacturing,203739.3745158949,medium,2022
+TUR,Turkey,6110,"Jerseys, pullovers",Textiles,783660.1956408911,medium,2022
+TUR,Turkey,6203,"Mens suits, cotton",Textiles,863641.9740105575,medium,2022
+TUR,Turkey,6204,Womens suits,Textiles,310551.66052288294,medium,2022
+TUR,Turkey,4011,"Pneumatic tires, rubber",Manufacturing,89626.42800839875,medium,2022
+TUR,Turkey,7308,Structures of iron/steel,Metals,82304.61034790856,medium,2022
+TUR,Turkey,3923,"Articles for transport/packing, plastic",Plastics,435149.0307837567,medium,2022
+TUR,Turkey,4819,"Cartons, boxes, paper",Paper,419.2143408563768,medium,2022
+TUR,Turkey,8704,Motor vehicles for goods,Automotive,77617.91288758648,medium,2022
+TUR,Turkey,8708,Vehicle parts,Automotive,6247860.277992948,medium,2022
+TUR,Turkey,8473,Parts for office machines,Electronics,16921.964231163056,high,2022
+TUR,Turkey,8542,Electronic integrated circuits,Electronics,1051778.696178992,high,2022
+TUR,Turkey,8541,"Diodes, transistors",Electronics,378272.39918097435,high,2022
+TUR,Turkey,8528,"Monitors, projectors",Electronics,444556.8687172149,high,2022
+TUR,Turkey,8703,Motor cars,Automotive,904277.7732178131,high,2022
+TUR,Turkey,8407,Spark-ignition engines,Machinery,44427.65212592932,high,2022
+TUR,Turkey,8483,Transmission shafts,Machinery,425544.2491205781,high,2022
+TUR,Turkey,9018,Medical instruments,Medical,77602.37123103414,high,2022
+TUR,Turkey,2933,Heterocyclic compounds,Chemicals,30726.539084744025,high,2022
+TUR,Turkey,3002,"Human blood, vaccines",Pharmaceuticals,172385.69288631444,high,2022
+SAU,Saudi Arabia,2701,Coal,Natural Resources,4418069.317775072,low,2022
+SAU,Saudi Arabia,2710,"Petroleum oils, refined",Natural Resources,462478.6983126047,low,2022
+SAU,Saudi Arabia,1511,Palm oil,Agriculture,520175.25708378083,low,2022
+SAU,Saudi Arabia,0801,"Coconuts, Brazil nuts",Agriculture,6525582.256675192,low,2022
+SAU,Saudi Arabia,4407,Wood sawn lengthwise,Forestry,649874.6414545093,low,2022
+SAU,Saudi Arabia,4403,Wood in the rough,Forestry,372677.2496835975,low,2022
+SAU,Saudi Arabia,0803,Bananas,Agriculture,731051.1773869662,low,2022
+SAU,Saudi Arabia,0901,Coffee,Agriculture,198078.65807804684,low,2022
+SAU,Saudi Arabia,1801,Cocoa beans,Agriculture,627414.0617464257,low,2022
+SAU,Saudi Arabia,2603,Copper ores,Mining,562049.6181289906,low,2022
+SAU,Saudi Arabia,2608,Zinc ores,Mining,125465.05255895163,low,2022
+SAU,Saudi Arabia,7108,Gold,Mining,161771.5890077679,low,2022
+SAU,Saudi Arabia,6403,"Footwear, leather",Light Manufacturing,105431.61393751173,medium,2022
+SAU,Saudi Arabia,7210,Flat-rolled iron/steel,Metals,26035.09488116887,medium,2022
+SAU,Saudi Arabia,3004,Medicaments,Pharmaceuticals,1006244.4620640016,medium,2022
+SAU,Saudi Arabia,8704,Motor vehicles for goods,Automotive,12940.934382596293,medium,2022
+SAU,Saudi Arabia,8542,Electronic integrated circuits,Electronics,63737.901903530554,high,2022
+SAU,Saudi Arabia,8703,Motor cars,Automotive,351496.66211513156,high,2022
+SAU,Saudi Arabia,9018,Medical instruments,Medical,4424.324323420739,high,2022
+ZAF,South Africa,2710,"Petroleum oils, refined",Natural Resources,2448301.212847186,low,2022
+ZAF,South Africa,1511,Palm oil,Agriculture,238623.79447604012,low,2022
+ZAF,South Africa,0801,"Coconuts, Brazil nuts",Agriculture,718847.7366784514,low,2022
+ZAF,South Africa,4001,Natural rubber,Agriculture,292405.9676725998,low,2022
+ZAF,South Africa,4407,Wood sawn lengthwise,Forestry,1012438.409996816,low,2022
+ZAF,South Africa,4403,Wood in the rough,Forestry,1320506.3095618642,low,2022
+ZAF,South Africa,1801,Cocoa beans,Agriculture,4191474.6767834965,low,2022
+ZAF,South Africa,2603,Copper ores,Mining,1071455.1337405434,low,2022
+ZAF,South Africa,3004,Medicaments,Pharmaceuticals,30660.327994831496,medium,2022
+ZAF,South Africa,8483,Transmission shafts,Machinery,1294.2529092180214,high,2022
+NGA,Nigeria,2709,"Petroleum oils, crude",Natural Resources,91365.78991850589,low,2022
+NGA,Nigeria,2701,Coal,Natural Resources,473443.76484216173,low,2022
+NGA,Nigeria,0801,"Coconuts, Brazil nuts",Agriculture,628906.9006194272,low,2022
+NGA,Nigeria,4001,Natural rubber,Agriculture,65333.552272656365,low,2022
+NGA,Nigeria,4407,Wood sawn lengthwise,Forestry,182000.90353866547,low,2022
+NGA,Nigeria,0803,Bananas,Agriculture,198596.4234316667,low,2022
+NGA,Nigeria,0901,Coffee,Agriculture,492541.8279601724,low,2022
+NGA,Nigeria,1801,Cocoa beans,Agriculture,138069.68495496287,low,2022
+NGA,Nigeria,2603,Copper ores,Mining,2216295.7874873644,low,2022
+NGA,Nigeria,2608,Zinc ores,Mining,1387909.537242456,low,2022
+NGA,Nigeria,7108,Gold,Mining,4738870.2346498575,low,2022
+NGA,Nigeria,6204,Womens suits,Textiles,80531.15498959523,medium,2022
+NGA,Nigeria,3923,"Articles for transport/packing, plastic",Plastics,12741.703459118262,medium,2022
+NGA,Nigeria,3920,"Plates, sheets, plastic",Plastics,27066.515261543376,medium,2022
+NGA,Nigeria,8473,Parts for office machines,Electronics,23318.567654683233,high,2022

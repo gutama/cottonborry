@@ -1,0 +1,25 @@
+country_code,country_name,hs_code,product_name,category,export_value_usd,complexity_tier,year
+IDN,Indonesia,2709,"Petroleum oils, crude",Natural Resources,195185.3447493553,low,2022
+IDN,Indonesia,2701,Coal,Natural Resources,3413570.870615881,low,2022
+IDN,Indonesia,1511,Palm oil,Agriculture,42452261.30386339,low,2022
+IDN,Indonesia,4001,Natural rubber,Agriculture,5580949.372384843,low,2022
+IDN,Indonesia,4407,Wood sawn lengthwise,Forestry,376338.2924944737,low,2022
+IDN,Indonesia,4403,Wood in the rough,Forestry,420693.7383751835,low,2022
+IDN,Indonesia,0803,Bananas,Agriculture,6469.809701451125,low,2022
+IDN,Indonesia,0901,Coffee,Agriculture,8046432.349763055,low,2022
+IDN,Indonesia,1801,Cocoa beans,Agriculture,510889.12628801994,low,2022
+IDN,Indonesia,2603,Copper ores,Mining,272443.4437740852,low,2022
+IDN,Indonesia,2608,Zinc ores,Mining,341481.94201158965,low,2022
+IDN,Indonesia,7108,Gold,Mining,3974624.888025078,low,2022
+IDN,Indonesia,6403,"Footwear, leather",Light Manufacturing,564919.3917296991,medium,2022
+IDN,Indonesia,6204,Womens suits,Textiles,157807.0993325554,medium,2022
+IDN,Indonesia,4011,"Pneumatic tires, rubber",Manufacturing,133184.71786833892,medium,2022
+IDN,Indonesia,7308,Structures of iron/steel,Metals,2942822.2919504917,medium,2022
+IDN,Indonesia,3004,Medicaments,Pharmaceuticals,430630.4387308045,medium,2022
+IDN,Indonesia,3920,"Plates, sheets, plastic",Plastics,53347.273103558015,medium,2022
+IDN,Indonesia,8704,Motor vehicles for goods,Automotive,671807.546942271,medium,2022
+IDN,Indonesia,8708,Vehicle parts,Automotive,8783.759220606222,medium,2022
+IDN,Indonesia,8471,Automatic data processing machines,Electronics,252023.2520074334,high,2022
+IDN,Indonesia,8473,Parts for office machines,Electronics,949339.8031107727,high,2022
+IDN,Indonesia,9018,Medical instruments,Medical,11010.93121630052,high,2022
+IDN,Indonesia,3002,"Human blood, vaccines",Pharmaceuticals,27968.033266572045,high,2022
