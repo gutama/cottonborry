@@ -1,0 +1,2435 @@
+rank,product_hs92_code,product_name_short,pci
+1,2841,Salts of oxometallic acids,3.472
+2,2841,,3.472
+3,3705,,2.826
+4,3705,"Photographic film, developed",2.826
+5,7506,Nickel plates,2.565
+6,7506,,2.565
+7,8444,"Machines to extrude, cut manmade textile fibres",2.473
+8,8444,,2.473
+9,3707,Chemical preparations for photographic uses,2.441
+10,3707,,2.441
+11,7006,,2.398
+12,7006,Worked glass,2.398
+13,8113,Cermets,2.271
+14,8113,,2.271
+15,8479,,2.244
+16,8479,Machines n.e.c.,2.244
+17,7221,,2.13
+18,7221,"Bars of stainless steel, hot-rolled",2.13
+19,8456,Machines for working materials by laser and similar means,2.073
+20,8456,,2.073
+21,7107,,2.066
+22,7107,Silver clad metals,2.066
+23,2919,,2.042
+24,2919,Phosporic esters,2.042
+25,2843,,2.009
+26,2843,Compounds of precious metals,2.009
+27,8457,Machining centers for working metal,1.985
+28,8457,,1.985
+29,8207,,1.977
+30,8207,Interchangeable tools for hand tools,1.977
+31,2812,Halides of nonmetals,1.928
+32,2812,,1.928
+33,9110,"Clock movements, complete, unassembled",1.926
+34,9110,,1.926
+35,3810,Pickling preparations for metal surfaces,1.913
+36,3810,,1.913
+37,2850,,1.903
+38,2850,"Hydrides, nitrides, azides, silicides and borides",1.903
+39,7318,Screws and similar articles of iron or steel,1.883
+40,7318,,1.883
+41,3002,,1.875
+42,3002,Serums and vaccines,1.875
+43,9012,"Microscopes, other than optical",1.871
+44,9012,,1.871
+45,3818,,1.865
+46,3818,Chemical elements for electronics,1.865
+47,8475,,1.859
+48,8475,Machines for assembling electric lamps,1.859
+49,9205,,1.853
+50,9205,"Musical instruments, wind",1.853
+51,8209,"Articles for utensils, of cermet",1.852
+52,8209,,1.852
+53,7014,,1.843
+54,7014,Signaling glassware,1.843
+55,8466,,1.818
+56,8466,Parts and accessories for metal working machines,1.818
+57,7225,"Flat-rolled products of other alloy steel, width > 600 mm",1.809
+58,7225,,1.809
+59,2931,,1.798
+60,2931,Other organo-inorganic compounds,1.798
+61,8458,Lathes for removing metal,1.793
+62,8458,,1.793
+63,3908,Polyamides,1.786
+64,3908,,1.786
+65,9017,,1.751
+66,9017,Drafting tables and machines,1.751
+67,9027,,1.744
+68,9027,Instruments for physical or chemical analysis,1.744
+69,3910,,1.726
+70,3910,Silicones in primary forms,1.726
+71,8477,,1.725
+72,8477,Machinery for working rubber or plastics,1.725
+73,9022,X-ray machines,1.717
+74,9022,,1.717
+75,3914,,1.716
+76,3914,Ion-exchangers based on polymers,1.716
+77,7220,,1.708
+78,7220,Flat-rolled products of stainless steel of a width < 600 mm,1.708
+79,8454,Machines used in metallurgy,1.703
+80,8454,,1.703
+81,2912,Aldehydes,1.698
+82,2912,,1.698
+83,2911,Acetals and hemiacetals,1.685
+84,2911,,1.685
+85,8420,,1.684
+86,8420,"Calendering or other rolling machines, other than for metals or glass",1.684
+87,9024,,1.643
+88,9024,Machines for testing the mechanical properties of materials,1.643
+89,9011,,1.639
+90,9011,Optical microscopes,1.639
+91,7222,Other bars and rods of stainless steel,1.637
+92,7222,,1.637
+93,6909,Ceramic wares for technical ware,1.633
+94,6909,,1.633
+95,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.621
+96,8483,Transmission shafts,1.621
+97,9010,,1.621
+98,8483,,1.621
+99,3403,,1.616
+100,3403,Lubricants,1.616
+101,8460,,1.607
+102,8460,Machines with grinding stones for finishing metal,1.607
+103,2914,,1.586
+104,2914,Ketones and quinones,1.586
+105,8413,,1.577
+106,8413,Pumps for liquids,1.577
+107,8208,Knives and blades for machines,1.572
+108,8208,,1.572
+109,2920,,1.568
+110,2920,Esters of other inorganic acids of nonmetals,1.568
+111,2926,,1.565
+112,2926,Nitrile-function compounds,1.565
+113,3911,Petroleum resins,1.564
+114,3911,,1.564
+115,8202,,1.558
+116,8202,Handsaws,1.558
+117,8462,Machine tools for molding and forging metals,1.546
+118,8462,,1.546
+119,3906,Acrylic polymers,1.542
+120,3906,,1.542
+121,8480,Molding boxes for metal foundry,1.528
+122,8480,,1.528
+123,9002,Lenses and other optical elements,1.52
+124,9002,,1.52
+125,9013,,1.513
+126,9013,Liquid crystal devices,1.513
+127,9031,,1.509
+128,9031,Measuring instruments,1.509
+129,8514,,1.495
+130,8514,Industrial electric furnaces,1.495
+131,8439,,1.494
+132,8439,Machinery for making paper,1.494
+133,8542,Electronic integrated circuits,1.491
+134,8408,,1.491
+135,8408,Compression-ignition internal combustion piston engines,1.491
+136,8542,,1.491
+137,9026,Instruments for measuring properties of liquids or gases,1.489
+138,9026,,1.489
+139,9030,,1.469
+140,8508,,1.469
+141,8508,Vacuum cleaners,1.469
+142,9030,Instruments for measuring electricity,1.469
+143,8101,Tungsten (wolfram),1.467
+144,8101,,1.467
+145,8540,"Thermionic, cold cathode or photocathode tubes",1.465
+146,7002,,1.465
+147,8540,,1.465
+148,3819,,1.465
+149,3819,Hydraulic fluids,1.465
+150,7002,Glass balls,1.465
+151,8446,,1.454
+152,8446,Looms,1.454
+153,5910,"Transmission belts or belting, of textile material",1.447
+154,5910,,1.447
+155,8463,,1.439
+156,8463,"Other machine tools for working metal, without removal",1.439
+157,8427,,1.436
+158,8427,Fork-lift trucks,1.436
+159,8603,,1.431
+160,8603,Self-propelled railway coaches,1.431
+161,8449,,1.43
+162,8449,Machinery to manufacture felt,1.43
+163,9107,Time switches,1.43
+164,9107,,1.43
+165,8543,Electrical machines with individual functions n.e.c.,1.43
+166,8543,,1.43
+167,8467,,1.427
+168,8467,"Tools for hand working, pneumatic, hydraulic motors",1.427
+169,8473,Parts and accessories for office machines,1.423
+170,8473,,1.423
+171,8464,Machine tools for working stone,1.411
+172,8464,,1.411
+173,2848,Phosphides,1.403
+174,8414,,1.386
+175,8414,"Pumps, compressors, fans, etc.",1.386
+176,2934,,1.385
+177,2934,Nucleic acids and their salts,1.385
+178,2908,,1.383
+179,2908,Derivatives of phenols,1.383
+180,9032,,1.38
+181,9032,Automatic regulating instruments,1.38
+182,3701,,1.379
+183,3701,Photographic plates,1.379
+184,7505,"Nickel bars, wire etc.",1.376
+185,7505,,1.376
+186,8482,,1.373
+187,8482,Ball or roller bearings,1.373
+188,8441,Other machinery for making paper,1.371
+189,8441,,1.371
+190,3919,Self-adhesive plastic sheets,1.352
+191,3919,,1.352
+192,7226,"Flat-rolled products of other alloy steel, width < 600 mm",1.351
+193,7226,,1.351
+194,2921,Amine-function compounds,1.344
+195,2921,,1.344
+196,2940,,1.334
+197,2940,"Other sugars, chemically pure",1.334
+198,7223,Wire of stainless steel,1.328
+199,7223,,1.328
+200,5005,Yarn from silk waste,1.327
+201,5005,,1.327
+202,7507,Nickel tubes and pipes,1.326
+203,7507,,1.326
+204,8419,Equipment for temperature change of materials,1.324
+205,8419,,1.324
+206,7415,,1.321
+207,7415,Screws and similar articles of copper,1.321
+208,3909,,1.318
+209,3909,Amino-resins,1.318
+210,6805,,1.304
+211,6805,Natural or artificial abrasive powder,1.304
+212,8507,Batteries,1.297
+213,8507,,1.297
+214,4704,"Chemical woodpulp, sulfite",1.289
+215,4704,,1.289
+216,8481,,1.286
+217,8481,Appliances for thermostatically controlled valves,1.286
+218,8428,,1.266
+219,8428,Other lifting machinery,1.266
+220,4904,"Music, printed or in manuscript",1.264
+221,4904,,1.264
+222,8484,,1.261
+223,8484,Gaskets and similar joints of metal sheeting,1.261
+224,4806,Transparent paper,1.257
+225,4806,,1.257
+226,8461,,1.256
+227,8461,Other machine tools for planing and cutting metals,1.256
+228,2910,,1.251
+229,2910,Epoxides,1.251
+230,6804,,1.249
+231,6804,Grindstones,1.249
+232,5911,,1.246
+233,5911,Textile articles for technical use,1.246
+234,5903,Textile fabrics impregnated with plastics,1.243
+235,5903,,1.243
+236,2937,Hormones,1.236
+237,2937,,1.236
+238,8533,Electrical resistors,1.235
+239,8533,,1.235
+240,8417,Industrial furnaces,1.233
+241,8417,,1.233
+242,3905,,1.231
+243,3905,Polymers of vinyl acetate,1.231
+244,8401,,1.226
+245,8401,Nuclear reactors and related equipment,1.226
+246,5906,Rubberized textile fabrics,1.22
+247,5906,,1.22
+248,2907,"Phenols, phenol-alcohols",1.218
+249,2907,,1.218
+250,7218,Stainless steel in ingots,1.205
+251,7218,,1.205
+252,3812,,1.204
+253,3812,Stabilizers for rubber or plastic,1.204
+254,6903,,1.201
+255,6903,Other refractory ceramic goods,1.201
+256,9021,Orthopedic appliances,1.198
+257,9021,,1.198
+258,2927,,1.197
+259,2927,"Diazo-, azo-, or azoxy-compounds",1.197
+260,8485,"Machinery parts, not containing electrical features, n.e.c.",1.19
+261,8485,,1.19
+262,8445,Machines for preparing textile fibers,1.185
+263,8445,,1.185
+264,2913,Derivatives of aldehydes,1.18
+265,2913,,1.18
+266,3912,,1.176
+267,3912,Cellulose n.e.c.,1.176
+268,8515,Electric soldering machines,1.173
+269,8515,,1.173
+270,8523,,1.166
+271,8523,Sound storage media,1.166
+272,2929,,1.162
+273,2929,Isocyanates,1.162
+274,8307,Flexible tubing of base metal,1.162
+275,8307,,1.162
+276,6902,"Bricks, tiles and similar refractory ceramic constructional goods",1.155
+277,6902,,1.155
+278,4005,Compounded rubber,1.153
+279,4005,,1.153
+280,2932,Heterocyclic compounds with oxygen hetero-atom(s) only,1.152
+281,2932,,1.152
+282,8204,,1.149
+283,6815,Articles of stone or of other mineral substances,1.149
+284,6815,,1.149
+285,8204,Wrenches,1.149
+286,9108,"Watch movements, complete",1.147
+287,9108,,1.147
+288,4801,Newsprint,1.146
+289,9611,Hand-operated stamps,1.146
+290,4801,,1.146
+291,9611,,1.146
+292,8472,,1.145
+293,3702,,1.145
+294,3702,Photographic film in rolls,1.145
+295,8472,Other office machines,1.145
+296,8511,Electrical ignition equipment,1.136
+297,8511,,1.136
+298,7017,"Laboratory, hygienic or pharmaceutical glassware",1.132
+299,7017,,1.132
+300,7229,,1.13
+301,7229,Wire of other alloy steel,1.13
+302,8465,,1.121
+303,8465,Machine tools for working wood,1.121
+304,2924,,1.121
+305,2924,Carboxyamide-function compounds,1.121
+306,8440,Bookbinding machinery,1.12
+307,8440,,1.12
+308,2933,Heterocyclic compounds with nitrogen hetero-atom(s) only,1.114
+309,2933,,1.114
+310,8104,,1.113
+311,8104,Magnesium,1.113
+312,5603,Nonwoven textiles,1.112
+313,5603,,1.112
+314,8505,,1.11
+315,8505,Electromagnets,1.11
+316,9001,,1.108
+317,9001,Optical fibers,1.108
+318,2903,,1.107
+319,2903,Halogenated derivatives of hydrocarbons,1.107
+320,3407,,1.103
+321,3407,Modeling pastes,1.103
+322,8416,,1.098
+323,8416,Furnace burners,1.098
+324,2930,,1.086
+325,2930,Organo-sulfur compounds,1.086
+326,8547,Insulating fittings for electrical machines,1.084
+327,8547,,1.084
+328,9029,Meters,1.083
+329,9029,,1.083
+330,8538,,1.083
+331,8538,Parts for electrical apparatus,1.083
+332,7315,,1.076
+333,7315,Chain of iron or steel,1.076
+334,3926,Other articles of plastic,1.072
+335,3926,,1.072
+336,8421,,1.071
+337,8421,Centrifuges,1.071
+338,8404,,1.07
+339,8404,Auxiliary parts for use with boilers,1.07
+340,8443,Printers and copiers,1.062
+341,8443,,1.062
+342,2851,"Inorganic compounds, liquid or compressed air",1.059
+343,2851,,1.059
+344,9402,"Medical, dental or veterinary furniture",1.056
+345,9402,,1.056
+346,8433,,1.053
+347,7609,Aluminum tube or pipe fittings,1.053
+348,7609,,1.053
+349,8433,Harvesting or agricultural machinery,1.053
+350,8422,Dish washing machines,1.05
+351,8422,,1.05
+352,3821,,1.044
+353,3821,Prepared culture media for micro-organisms,1.044
+354,8525,"Transmission apparatus for radio, telephone and TV",1.042
+355,8525,,1.042
+356,8526,Radar,1.041
+357,2705,Non-petroleum gases,1.041
+358,2705,,1.041
+359,8526,,1.041
+360,3507,Enzymes,1.039
+361,3507,,1.039
+362,8102,,1.025
+363,8102,Molybdenum,1.025
+364,2925,Carboxyimide-function compounds,1.017
+365,2935,,1.017
+366,2925,,1.017
+367,2935,Sulfonamides,1.017
+368,8455,Metal-rolling mills,1.014
+369,8455,,1.014
+370,8476,Automatic goods-vending machines,1.014
+371,8476,,1.014
+372,7219,Flat-rolled products of stainless steel of a width > 600 mm,1.013
+373,7219,,1.013
+374,7302,,1.011
+375,7302,Railway construction material of iron or steel,1.011
+376,3212,"Pigments, nonaqueous",1.01
+377,3212,,1.01
+378,2816,Hydroxides or peroxides of magnesium,1.008
+379,2816,,1.008
+380,9016,Balances of a sensitivity < 50 milligram,1.003
+381,9016,,1.003
+382,9617,,1.002
+383,9617,Vacuum vessels,1.002
+384,3815,,1.001
+385,3815,Catalytic preparations,1.001
+386,8504,,0.997
+387,8504,Electrical transformers,0.997
+388,2915,,0.995
+389,2915,Saturated acyclic monocarboxylic acids,0.995
+390,7003,"Glass, cast or rolled",0.994
+391,7003,,0.994
+392,8424,Sprays and powder dispersers,0.993
+393,8424,,0.993
+394,8471,,0.991
+395,8471,Computers,0.991
+396,9302,,0.99
+397,9302,Revolvers and pistols,0.99
+398,4010,Conveyor belts of vulcanized rubber,0.987
+399,4010,,0.987
+400,3801,Artificial graphite,0.986
+401,8708,Parts of motor vehicles,0.986
+402,8708,,0.986
+403,3801,,0.986
+404,7105,,0.985
+405,7105,Diamond dust,0.985
+406,3904,,0.984
+407,3904,Polymers of vinyl chloride,0.984
+408,9209,,0.982
+409,9209,Parts of musical instruments,0.982
+410,8703,,0.982
+411,8703,Cars,0.982
+412,8211,Knife sets,0.973
+413,8211,,0.973
+414,9305,Parts of military weapons,0.968
+415,9305,,0.968
+416,8203,,0.966
+417,8203,"Pliers, pincers and other metal handtools",0.966
+418,8442,,0.966
+419,8442,Machinery for making printing components,0.966
+420,7508,,0.964
+421,7508,Other articles of nickel,0.964
+422,8436,Other agricultural machinery,0.963
+423,8436,,0.963
+424,8423,,0.959
+425,8423,Weighing machinery,0.959
+426,2813,,0.957
+427,2813,Sulfides of nonmetals,0.957
+428,8501,,0.955
+429,8501,Electric motors and generators,0.955
+430,9103,Clocks with watch movements,0.954
+431,9103,,0.954
+432,9104,Instrument panel clocks for vehicles,0.953
+433,9104,,0.953
+434,8527,,0.952
+435,8527,Reception apparatus for radio broadcasting,0.952
+436,4902,,0.947
+437,4902,"Newspapers, journals and periodicals",0.947
+438,410,,0.946
+439,0410,"Edible animal products, n.e.c.",0.946
+440,5909,Textile hosepiping and similar tubing,0.945
+441,5909,,0.945
+442,2941,,0.935
+443,2941,Antibiotics,0.935
+444,9303,Other firearms,0.934
+445,9303,,0.934
+446,8521,Video recording apparatus,0.931
+447,8521,,0.931
+448,9114,,0.928
+449,9114,Other clock or watch parts,0.928
+450,7320,,0.928
+451,8530,,0.928
+452,7320,Springs of iron or steel,0.928
+453,8530,Electric signal and traffic controls,0.928
+454,3505,Dextrins and other modified starches,0.926
+455,3505,,0.926
+456,8451,Machinery for processing fabrics,0.924
+457,8451,,0.924
+458,2842,,0.922
+459,8305,,0.922
+460,8305,"Paper clips and similar office articles, of metal",0.922
+461,2842,Other salts of acids,0.922
+462,2917,,0.919
+463,4016,Other articles of vulcanized rubber,0.919
+464,7607,Aluminum foil < 0.2 mm,0.919
+465,2917,Polycarboxylic acids,0.919
+466,7607,,0.919
+467,4016,,0.919
+468,9005,Binoculars and telescopes,0.917
+469,9005,,0.917
+470,5403,Artificial filament yarn,0.915
+471,5403,,0.915
+472,8412,,0.9
+473,8412,Other engines and motors,0.9
+474,8539,Electrical filament,0.899
+475,8539,,0.899
+476,8108,,0.896
+477,8406,,0.896
+478,8108,Titanium,0.896
+479,8406,Steam turbines,0.896
+480,8301,,0.893
+481,8301,Padlocks and locks,0.893
+482,9006,,0.889
+483,9006,Photographic cameras,0.889
+484,4008,,0.887
+485,4008,Vulcanized rubber plates,0.887
+486,8535,Electrical apparatus for > 1k volts,0.885
+487,8535,,0.885
+488,9207,,0.884
+489,7416,,0.884
+490,9207,"Musical instruments, electric",0.884
+491,7416,Copper springs,0.884
+492,7307,,0.882
+493,8534,Electronic printed circuits,0.882
+494,8534,,0.882
+495,7307,Tube or pipe fittings of iron or steel,0.882
+496,8425,Pulleys and winches,0.881
+497,8425,,0.881
+498,9105,Other clocks,0.88
+499,9105,,0.88
+500,9014,,0.878
+501,9014,Navigational instruments,0.878
+502,2916,Unsaturated acyclic monocarboxylic acids,0.874
+503,2916,,0.874
+504,3005,"Wadding, gauze and bandages",0.873
+505,3005,,0.873
+506,8448,Auxiliary machinery for use with knitting and textile machines,0.873
+507,8448,,0.873
+508,8537,Electrical boards,0.868
+509,8537,,0.868
+510,9111,,0.865
+511,9111,Watch cases and parts,0.865
+512,5905,,0.863
+513,5905,Textile wall coverings,0.863
+514,8468,Machinery for soldering,0.86
+515,8468,,0.86
+516,9023,Instruments designed for demonstrational purposes,0.859
+517,9023,,0.859
+518,2928,Organix derivatives of hydrazine,0.856
+519,2928,,0.856
+520,4009,,0.854
+521,4009,Vulcanized rubber tubes,0.854
+522,3006,Pharmaceutical goods,0.853
+523,3006,,0.853
+524,8469,,0.853
+525,8469,Word processing machines,0.853
+526,8805,Aircraft launching gear,0.852
+527,8805,,0.852
+528,3504,Peptones,0.85
+529,3504,,0.85
+530,8510,Electric shavers and hair clippers,0.848
+531,8510,,0.848
+532,4812,Filter blocks of paper pulp,0.845
+533,4812,,0.845
+534,3704,,0.842
+535,3704,"Photographic film, not developed",0.842
+536,8512,,0.84
+537,8512,Electrical lighting equipment used for motor vehicles,0.84
+538,8601,Electric trains,0.839
+539,4007,Vulcanized rubber thread and cord,0.839
+540,4007,,0.839
+541,8519,,0.837
+542,8519,Sound reproducing apparatus,0.837
+543,3506,Glues and adhesives,0.834
+544,3506,,0.834
+545,5602,,0.831
+546,5113,,0.831
+547,3918,,0.831
+548,3918,Plastic floor coverings,0.831
+549,5113,Woven fabrics of coarse animal hair,0.831
+550,5602,Felt,0.831
+551,8701,Tractors,0.824
+552,8701,,0.824
+553,8529,,0.824
+554,8529,"Parts of radios, telephones, and T.V.s",0.824
+555,9018,,0.822
+556,9018,Medical instruments,0.822
+557,8409,Parts suitable for use with spark-ignition engines,0.82
+558,8409,,0.82
+559,7205,,0.815
+560,7205,Powders of iron or steel,0.815
+561,2826,,0.812
+562,2826,Flourides,0.812
+563,8432,Machinery for soil preparation or cultivation,0.809
+564,7009,Glass mirrors,0.809
+565,8432,,0.809
+566,7009,,0.809
+567,8707,,0.804
+568,9101,,0.804
+569,9101,Watches with precious metal,0.804
+570,8707,Vehicle Bodies,0.804
+571,4006,Unvulcanized rubber rods,0.802
+572,4006,,0.802
+573,5907,,0.802
+574,5907,"Other textile fabrics impregnated, coated or covered",0.802
+575,6806,,0.801
+576,6806,Mineral wools and insulating materials,0.801
+577,4807,Uncoated composite paper,0.8
+578,4807,,0.8
+579,7504,Nickel powders,0.8
+580,7504,,0.8
+581,2936,Vitamins,0.799
+582,2936,,0.799
+583,8506,Primary cells and primary batteries,0.798
+584,8506,,0.798
+585,103,,0.794
+586,0103,Swine,0.794
+587,8502,Electric generating sets and rotary converters,0.792
+588,8502,,0.792
+589,6814,Mica articles,0.79
+590,6814,,0.79
+591,8517,Telephones,0.789
+592,8517,,0.789
+593,2918,,0.786
+594,2918,Carboxylic acids with additional oxygen function,0.786
+595,9025,"Thermometers, hydrometers etc.",0.786
+596,9025,,0.786
+597,7109,,0.782
+598,7109,Gold clad metals,0.782
+599,9304,"Other arms (air guns, truncheons, etc.)",0.781
+600,9304,,0.781
+601,8407,Spark-ignition reciprocating internal combustion piston engines,0.778
+602,7322,,0.778
+603,7322,Radiators for central heating of iron or steel,0.778
+604,8407,,0.778
+605,9201,,0.768
+606,9201,Pianos,0.768
+607,9405,,0.763
+608,9405,Lamps,0.763
+609,7326,,0.761
+610,7326,Other articles of iron or steel,0.761
+611,2703,Peat,0.761
+612,2703,,0.761
+613,9019,Therapy applicances,0.758
+614,9019,,0.758
+615,8431,,0.756
+616,8531,Electric sound or visual signaling apparatus,0.756
+617,7606,,0.756
+618,8531,,0.756
+619,7606,Aluminum plates > 0.2 mm,0.756
+620,8431,Parts for use with hoists and excavation machinery,0.756
+621,3004,"Medicaments, packaged",0.755
+622,8713,Wheelchairs,0.755
+623,3004,,0.755
+624,8713,,0.755
+625,8716,Trailers and semi-trailers,0.754
+626,8716,,0.754
+627,9102,,0.754
+628,9102,Watches,0.754
+629,9009,Electrostatic photo-copyers,0.753
+630,9009,,0.753
+631,8532,Electrical capacitors,0.752
+632,8532,,0.752
+633,8536,,0.751
+634,8536,Electrical apparatus for < 1k volts,0.751
+635,8213,,0.745
+636,8213,Scissors,0.745
+637,5902,Tire cord fabric,0.743
+638,5902,,0.743
+639,8607,Parts of railway locomotives,0.742
+640,8607,,0.742
+641,8302,,0.739
+642,8302,"Base metal mountings, fittings and similar articles",0.739
+643,3001,,0.735
+644,3001,Heparin for therapeutic use,0.735
+645,2823,,0.729
+646,2823,Titanium oxides,0.729
+647,8518,,0.722
+648,8518,Microphones,0.722
+649,7020,,0.721
+650,7020,Other articles of glass,0.721
+651,7412,,0.717
+652,7412,Copper tube or pipe fittings,0.717
+653,1210,Hop cones,0.716
+654,1210,,0.716
+655,3902,,0.716
+656,3902,Polymers of propylene,0.716
+657,3921,"Other plastic plates, sheets etc.",0.71
+658,3921,,0.71
+659,9612,Typewriter ribbons and ink pads,0.705
+660,9612,,0.705
+661,8447,Knitting machines,0.704
+662,8447,,0.704
+663,3404,,0.703
+664,3404,Artificial and prepared waxes,0.703
+665,7319,,0.702
+666,7319,Articles for sewing of iron or steel,0.702
+667,9616,Scent sprays,0.697
+668,9616,,0.697
+669,7611,,0.697
+670,2922,Oxygen-function amino-compounds,0.697
+671,7611,"Aluminum containers, >300 liters",0.697
+672,2922,,0.697
+673,9033,,0.694
+674,9033,Other parts for machines and appliances,0.694
+675,8503,,0.693
+676,8503,Parts for use with electric generators,0.693
+677,8608,,0.692
+678,8608,Railway track fixtures,0.692
+679,8434,Dairy machinery,0.691
+680,8434,,0.691
+681,8403,,0.685
+682,8403,Central heating boilers,0.685
+683,8112,,0.684
+684,8112,Other metals,0.684
+685,7118,,0.683
+686,7118,Coin,0.683
+687,7018,Glass beads,0.68
+688,7018,,0.68
+689,7008,,0.679
+690,7410,,0.679
+691,7410,Copper foil < 0.15 mm thick,0.679
+692,7008,Multiple-walled insulating glass,0.679
+693,2902,,0.676
+694,2902,Cyclic hydrocarbons,0.676
+695,4906,,0.675
+696,4906,"Architectural, engineering, etc. drawings",0.675
+697,8470,,0.673
+698,8470,"Cash registers, calculators, etc.",0.673
+699,3215,,0.672
+700,3215,Ink,0.672
+701,8516,Electric heaters,0.67
+702,8516,,0.67
+703,9020,,0.668
+704,9020,Other breathing appliances and gas masks,0.668
+705,5801,Woven pile fabrics,0.664
+706,5801,,0.664
+707,2806,,0.663
+708,2806,Hydrochloric acid,0.663
+709,8714,,0.663
+710,8714,Parts of motorcycles or wheelchairs,0.663
+711,5309,,0.66
+712,5309,Woven fabrics of flax,0.66
+713,8459,,0.659
+714,8459,Machine tools for drilling by removing metal,0.659
+715,4802,Paper used for graphic purposes,0.652
+716,4802,,0.652
+717,4810,"Paper and paperboard, coated with kaolin",0.647
+718,4810,,0.647
+719,7007,,0.645
+720,7007,Safety glass,0.645
+721,9504,Games,0.643
+722,9504,,0.643
+723,3816,Refractory cements,0.641
+724,3206,Other coloring matter,0.641
+725,3206,,0.641
+726,4908,Transfers (decalcomanias),0.641
+727,3816,,0.641
+728,4908,,0.641
+729,7613,,0.638
+730,7613,Aluminum containers for compressed or liquefied gas,0.638
+731,5606,,0.627
+732,5606,Gimp yarn,0.627
+733,4903,Children's books,0.625
+734,4903,,0.625
+735,3804,,0.621
+736,3804,Residual lyes,0.621
+737,5111,Woven fabrics of carded wool,0.62
+738,5111,,0.62
+739,3813,,0.619
+740,3813,Preparations for fire extinguishers,0.619
+741,8706,Vehicle chassis fitted with engines,0.619
+742,8706,,0.619
+743,3913,,0.617
+744,3913,Natural polymers,0.617
+745,5502,Artificial filament tow,0.611
+746,5502,,0.611
+747,7224,,0.608
+748,7224,Other alloy steel in primary form,0.608
+749,3811,Anti-knock,0.607
+750,3811,,0.607
+751,3601,Propellant powders,0.606
+752,3601,,0.606
+753,9028,"Gas, liquid or electricity meters",0.605
+754,9028,,0.605
+755,2901,,0.601
+756,2901,Acyclic hydrocarbons,0.601
+757,8545,,0.591
+758,8545,Carbon articles for eletrical purposes,0.591
+759,8426,,0.59
+760,8426,Ships' derricks; cranes,0.59
+761,8546,Electrical insulators of any material,0.588
+762,8546,,0.588
+763,4002,,0.588
+764,4002,Synthetic rubber,0.588
+765,7325,Other cast articles of iron or steel,0.586
+766,7325,,0.586
+767,7015,,0.576
+768,7015,Clock or watch glasses and similar glasses,0.576
+769,5404,,0.576
+770,5404,"Synthetic monofilament >67 dtex, thickness < 1mm",0.576
+771,3916,Monofilament,0.575
+772,3916,,0.575
+773,7907,,0.563
+774,7907,Other articles of zinc,0.563
+775,6603,,0.563
+776,6603,Parts of umbrellas or walking sticks,0.563
+777,7407,,0.562
+778,2707,Oils etc. from high temperature coal tar,0.562
+779,7407,"Copper bars, rods and profiles",0.562
+780,2707,,0.562
+781,8103,,0.562
+782,8103,Tantalum,0.562
+783,8541,Semiconductor devices,0.56
+784,8541,,0.56
+785,8205,,0.557
+786,8205,Hand tools n.e.c.,0.557
+787,9610,"Slates and boards, with writing or drawing surfaces",0.556
+788,9610,,0.556
+789,5405,"Artificial monofilament >67dtex t<1mm, strip, straws t<5mm",0.554
+790,5405,,0.554
+791,7616,,0.551
+792,2906,,0.551
+793,2906,Cyclic alcohols,0.551
+794,7616,Other articles of aluminum,0.551
+795,203,,0.548
+796,0203,Pork,0.548
+797,9106,,0.547
+798,9106,Apparatus for measuring intervals of time,0.547
+799,8418,"Refrigerators, freezers",0.545
+800,8418,,0.545
+801,6914,Other ceramic articles,0.54
+802,6914,,0.54
+803,7110,,0.534
+804,7110,Platinum,0.534
+805,7904,Zinx bars and wire,0.528
+806,7904,,0.528
+807,6702,Artificial flowers,0.528
+808,6702,,0.528
+809,2708,,0.527
+810,8308,"Clasps, buckles etc. of metal",0.527
+811,2708,Pitch and pitch coke,0.527
+812,8308,,0.527
+813,8303,Safes,0.526
+814,8303,,0.526
+815,8509,,0.526
+816,8509,Electromechanical domestic appliances,0.526
+817,2815,,0.524
+818,2815,Sodium hydroxide,0.524
+819,8206,Retail tool sets,0.523
+820,8206,,0.523
+821,9506,Sports equipment,0.518
+822,9506,,0.518
+823,8109,,0.518
+824,8109,Zirconium,0.518
+825,7111,Platinum clad metals,0.509
+826,7111,,0.509
+827,4814,,0.508
+828,4814,Wallpaper,0.508
+829,4701,Mechanical woodpulp,0.505
+830,4701,,0.505
+831,8548,Waste and scrap of batteries,0.505
+832,8548,,0.505
+833,8106,Bismuth,0.504
+834,8106,,0.504
+835,2923,Quaternary ammonium salts and hydroxides,0.502
+836,2923,,0.502
+837,1109,,0.502
+838,1109,Wheat gluten,0.502
+839,5504,"Artificial staple fibers, not processed for spinning",0.498
+840,5504,,0.498
+841,3003,,0.494
+842,3003,"Medicaments, not packaged",0.494
+843,3803,,0.493
+844,3803,Tall oil,0.493
+845,7208,"Flat-rolled iron, width > 600mm, hot-rolled, not clad",0.492
+846,7208,,0.492
+847,5503,Synthetic staple fibers,0.491
+848,5503,,0.491
+849,8411,Gas turbines,0.485
+850,8411,,0.485
+851,2821,,0.484
+852,2821,Iron oxides and hydroxides,0.484
+853,5605,Metallised yarn,0.483
+854,5605,,0.483
+855,3820,,0.481
+856,3820,Antifreezing preparation,0.481
+857,2847,,0.476
+858,2847,Hydrogen peroxide,0.476
+859,5604,,0.475
+860,5604,Rubber textiles,0.475
+861,3809,,0.473
+862,3809,Finishing agents,0.473
+863,8007,Other articles of tin,0.472
+864,8007,,0.472
+865,5408,Woven fabrics of artificial filament yarn,0.471
+866,5408,,0.471
+867,7013,,0.468
+868,7013,Glassware for interior decorative use,0.468
+869,5002,Raw silk,0.467
+870,5002,,0.467
+871,9004,,0.466
+872,9004,Glasses,0.466
+873,6813,Friction material and articles thereof,0.465
+874,6813,,0.465
+875,8453,,0.459
+876,8453,Machinery for preparing leather,0.459
+877,8415,,0.457
+878,8415,Air conditioners,0.457
+879,3304,Make-up preparations,0.453
+880,3304,,0.453
+881,0502,Brushmaking hair,0.451
+882,3922,,0.451
+883,3922,"Baths, sinks etc.",0.451
+884,502,,0.451
+885,7411,,0.448
+886,7411,Copper tubes and pipes,0.448
+887,8438,,0.445
+888,8438,Machinery for the industrial preparation of food or drink,0.445
+889,7019,Glass fibers,0.443
+890,7019,,0.443
+891,5004,,0.442
+892,5004,Silk yarn,0.442
+893,2939,Vegetable alkaloids,0.441
+894,2939,,0.441
+895,7503,,0.44
+896,7503,Nickel waste and scrap,0.44
+897,8003,Tin bars and wire,0.44
+898,8003,,0.44
+899,9608,,0.439
+900,9608,Pens,0.439
+901,8709,Work trucks,0.437
+902,3214,,0.437
+903,3214,Glaziers' putty,0.437
+904,8709,,0.437
+905,7114,Goldsmith and silversmith wares,0.436
+906,7114,,0.436
+907,3907,Polyacetals,0.434
+908,3907,,0.434
+909,3903,Polymers of styrene,0.431
+910,3903,,0.431
+911,8311,,0.429
+912,8311,Wire etc. used for welding,0.429
+913,3502,,0.425
+914,3502,Albumins,0.425
+915,8528,,0.419
+916,8528,Monitors and projectors,0.419
+917,1002,Rye,0.417
+918,1002,,0.417
+919,5803,,0.416
+920,5803,Gauze,0.416
+921,3204,Synthetic organic coloring matter,0.414
+922,3204,,0.414
+923,4911,Other printed matter,0.411
+924,4911,,0.411
+925,6810,,0.41
+926,6810,"Articles of cement, of concrete or of artificial stone",0.41
+927,8712,Bicycles,0.405
+928,8522,Parts and accessories for video or sound equipment,0.405
+929,8522,,0.405
+930,8712,,0.405
+931,7211,"Flat-rolled iron, width < 600mm, not clad",0.401
+932,7211,,0.401
+933,209,,0.4
+934,0209,Pig and poultry fat,0.4
+935,9003,,0.386
+936,9003,"Frames for spectacles, goggles",0.386
+937,8604,Railway service vehicles,0.384
+938,8604,,0.384
+939,9508,Fairground amusements,0.37
+940,9508,,0.37
+941,7409,,0.368
+942,7409,"Copper plates, sheets and strip > 0.15 mm",0.368
+943,6905,,0.366
+944,6905,Architectural ceramic ornaments,0.366
+945,7308,"Structures and their parts, of iron or steel",0.364
+946,7308,,0.364
+947,5106,,0.361
+948,5106,"Yarn of carded wool, not for retail sale",0.361
+949,5110,,0.358
+950,5110,Yarn of coarse animal hair or of horsehair,0.358
+951,4011,New pneumatic tires of rubber,0.355
+952,4011,,0.355
+953,1506,Other animal fats and oils,0.353
+954,1506,,0.353
+955,7419,Other articles of copper,0.351
+956,7419,,0.351
+957,3208,,0.351
+958,3208,"Paints and varnishes, nonaqueous",0.351
+959,9701,Paintings and drawings,0.35
+960,9701,,0.35
+961,3703,,0.345
+962,3703,Photographic paper,0.345
+963,6506,Other headgear,0.344
+964,6506,,0.344
+965,8450,,0.337
+966,8450,Household- or laundry-type washing machines,0.337
+967,7016,,0.333
+968,8605,"Railway coaches, not self-propelled",0.333
+969,7016,Glass paving blocks or other molded products,0.333
+970,3305,Hair products,0.333
+971,3305,,0.333
+972,404,,0.325
+973,0404,Whey,0.325
+974,8405,,0.324
+975,8405,Water gas generators,0.324
+976,9603,,0.32
+977,9603,Brooms and mops,0.32
+978,3807,Wood tar and oils,0.319
+979,3807,,0.319
+980,7113,Jewelry of precious metal,0.315
+981,7113,,0.315
+982,4414,Wooden frames,0.314
+983,4414,,0.314
+984,3405,Polishes and creams,0.31
+985,3405,,0.31
+986,4811,,0.308
+987,4811,"Cellulose wadding, coated",0.308
+988,8801,"Gliders, hang gliders",0.303
+989,8801,,0.303
+990,4901,,0.3
+991,4901,"Books, brochures etc.",0.3
+992,1806,,0.292
+993,1806,Chocolates,0.292
+994,4012,Used pneumatic tires of rubber,0.291
+995,4012,,0.291
+996,8711,Motorcycles,0.289
+997,8711,,0.289
+998,7610,"Aluminum structures (bridges, towers etc)",0.289
+999,7610,,0.289
+1000,9112,Clock cases,0.286
+1001,9112,,0.286
+1002,4822,"Bobbins, spools, cops of paper",0.282
+1003,4822,,0.282
+1004,7312,"Wire of iron or steel, not insulated",0.28
+1005,7312,,0.28
+1006,6601,,0.279
+1007,6601,Umbrellas,0.279
+1008,8410,"Hydraulic turbines, water wheels and regulators",0.277
+1009,3306,,0.277
+1010,8410,,0.277
+1011,3306,Dental hygiene products,0.277
+1012,8704,,0.273
+1013,8704,Motor vehicles for transporting goods,0.273
+1014,0101,Horses,0.272
+1015,101,,0.272
+1016,9202,,0.271
+1017,9202,"Musical instruments, string",0.271
+1018,4303,Furskin apparel,0.269
+1019,4303,,0.269
+1020,7608,Aluminum tubes and pipes,0.268
+1021,7608,,0.268
+1022,8710,,0.267
+1023,8710,Tanks and other armored fighting vehicles,0.267
+1024,5109,"Yarn of wool or animal hair, for retail sale",0.264
+1025,5109,,0.264
+1026,7804,,0.261
+1027,7804,Lead foil <2mm,0.261
+1028,7905,Zinc plates and foil,0.257
+1029,7905,,0.257
+1030,2846,,0.255
+1031,2846,Compounds of rare-earth metals,0.255
+1032,2003,"Mushrooms, prepared or preserved",0.25
+1033,2003,,0.25
+1034,8437,Machinery for processing grain,0.247
+1035,8437,,0.247
+1036,3307,Toiletries,0.247
+1037,5506,,0.247
+1038,3307,,0.247
+1039,5506,"Synthetic staple fibers, processed",0.247
+1040,3925,,0.246
+1041,3925,Plastic builders' ware,0.246
+1042,3817,,0.245
+1043,3817,Mixed alkylbenzenes,0.245
+1044,3210,Other paints and varnishes,0.242
+1045,3210,,0.242
+1046,9403,Other furniture and parts,0.24
+1047,8002,,0.24
+1048,8002,Tin waste and scrap,0.24
+1049,9403,,0.24
+1050,8201,Handtools for gardening,0.236
+1051,8201,,0.236
+1052,9007,Cinematographic cameras and projectors,0.23
+1053,9007,,0.23
+1054,9307,,0.23
+1055,9307,Swords,0.23
+1056,9406,Prefabricated buildings,0.229
+1057,9406,,0.229
+1058,7305,"Other tubes and pipes, diameter > 406.4 mm, of iron or steel",0.228
+1059,4905,,0.228
+1060,4905,Maps,0.228
+1061,7305,,0.228
+1062,4416,"Casks, barrels, etc. of wood",0.225
+1063,4416,,0.225
+1064,8304,,0.221
+1065,8304,"Paper trays and similar office equipment, of base metal",0.221
+1066,6602,Walking sticks,0.22
+1067,6602,,0.22
+1068,9008,,0.219
+1069,6507,Headbands,0.219
+1070,9008,Still image projectors,0.219
+1071,6507,,0.219
+1072,7228,,0.218
+1073,7228,Other bars and rods of other alloy steel,0.218
+1074,8804,Parachutes,0.217
+1075,8804,,0.217
+1076,4415,Packing boxes,0.216
+1077,4415,,0.216
+1078,1514,"Rapeseed, colza or mustard oil,",0.215
+1079,1514,,0.215
+1080,9109,,0.208
+1081,9109,"Clock movements, complete",0.208
+1082,3606,,0.207
+1083,3606,Ferrocerium and other pyrophoric alloys,0.207
+1084,7227,Bars of other alloy steel,0.206
+1085,7227,,0.206
+1086,8903,Pleasure or sport boats,0.2
+1087,8903,,0.2
+1088,3808,"Insecticides, rodenticides, fungicides, etc.",0.198
+1089,3808,,0.198
+1090,8715,Baby carriages,0.197
+1091,8715,,0.197
+1092,3303,Perfumes,0.196
+1093,3303,,0.196
+1094,3920,"Other plates of plastics, noncellular and not reinforced",0.194
+1095,3920,,0.194
+1096,5704,,0.193
+1097,8429,,0.193
+1098,5704,Carpets of felt,0.193
+1099,8429,"Self-propelled bulldozers, excavators and road rollers",0.193
+1100,8602,Other rail locomotives,0.19
+1101,5107,,0.19
+1102,8602,,0.19
+1103,5107,"Yarn of combed wool, not for retail sale",0.19
+1104,7117,Imitation jewelry,0.187
+1105,1003,Barley,0.187
+1106,7117,,0.187
+1107,1003,,0.187
+1108,3207,Prepared pigments,0.183
+1109,3207,,0.183
+1110,4816,,0.177
+1111,1601,,0.177
+1112,4816,Other carbon paper,0.177
+1113,1601,Sausages,0.177
+1114,7004,Drawn and blown glass,0.175
+1115,7212,,0.175
+1116,7004,,0.175
+1117,7212,"Flat-rolled iron, width < 600mm, clad",0.175
+1118,8402,,0.174
+1119,8402,Steam boilers,0.174
+1120,6808,Panels of vegetable fibers,0.173
+1121,6808,,0.173
+1122,1501,"Pig and poultry fat, rendered",0.169
+1123,1501,,0.169
+1124,7116,,0.168
+1125,7116,Articles of precious stones,0.168
+1126,9401,,0.167
+1127,9401,Seats,0.167
+1128,8435,Machines for wine and juice production,0.162
+1129,8435,,0.162
+1130,4410,Particle board and similar board,0.158
+1131,4410,,0.158
+1132,5507,"Artificial staple fibers, processed",0.157
+1133,5507,,0.157
+1134,5302,,0.153
+1135,5302,Hemp fiber,0.153
+1136,1505,Wool grease,0.151
+1137,1505,,0.151
+1138,8210,"Hand-operated appliances, food preparation, <10kg",0.148
+1139,8210,,0.148
+1140,4813,,0.143
+1141,7413,,0.143
+1142,4813,Cigarette paper,0.143
+1143,7413,"Copper wire, uninsulated",0.143
+1144,7604,Aluminum bars,0.139
+1145,7604,,0.139
+1146,9208,"Other musical instruments, n.e.c.",0.135
+1147,9208,,0.135
+1148,2834,,0.134
+1149,2834,"Nitrites, nitrates",0.134
+1150,9503,,0.133
+1151,9503,Toys,0.133
+1152,3901,,0.13
+1153,3901,Polymers of ethylene,0.13
+1154,9015,Surveying instruments,0.129
+1155,9015,,0.129
+1156,4821,Paper labels,0.127
+1157,4821,,0.127
+1158,2621,,0.119
+1159,2621,Other slag and ash,0.119
+1160,2106,,0.113
+1161,9604,Hand sieves and riddles,0.113
+1162,9604,,0.113
+1163,2106,Food preparations n.e.c.,0.113
+1164,9306,,0.11
+1165,9306,Munitions of war,0.11
+1166,6215,,0.109
+1167,6215,"Ties, bow ties and cravats",0.109
+1168,4017,Hard rubber,0.108
+1169,4017,,0.108
+1170,8310,Sign plates and similar plates of base metal,0.104
+1171,8803,Parts of other aircraft,0.104
+1172,8803,,0.104
+1173,8310,,0.104
+1174,0406,Cheese,0.103
+1175,406,,0.103
+1176,6912,,0.102
+1177,6912,Ceramic household articles,0.102
+1178,1004,Oats,0.1
+1179,1004,,0.1
+1180,9613,,0.099
+1181,9613,Cigarette lighters,0.099
+1182,0208,Other meat,0.097
+1183,208,,0.097
+1184,3203,Coloring matter of animal or vegetable origin,0.096
+1185,3203,,0.096
+1186,2811,,0.09
+1187,4805,Other uncoated paper and paperboard,0.09
+1188,4805,,0.09
+1189,2811,Other inorganic acids,0.09
+1190,7209,"Flat-rolled iron, width > 600mm, cold-rolled, not clad",0.084
+1191,7209,,0.084
+1192,4411,Fiberboard of wood,0.073
+1193,4411,,0.073
+1194,3814,Organic composite solvents and thinners,0.07
+1195,3814,,0.07
+1196,7309,"Tanks etc. > 300 liters, iron or steel",0.067
+1197,7309,,0.067
+1198,2817,,0.066
+1199,5108,,0.066
+1200,5108,"Yarn of animal hair, not for retail sale",0.066
+1201,2706,,0.066
+1202,2706,"Tar distilled from coal, lignite etc.",0.066
+1203,2817,Zinc oxide or peroxide,0.066
+1204,4910,Calendars,0.064
+1205,4910,,0.064
+1206,6906,Ceramic pipes,0.063
+1207,8705,,0.063
+1208,6906,,0.063
+1209,8705,Special purpose motor vehicles,0.063
+1210,2803,,0.062
+1211,2803,Carbon,0.062
+1212,5811,,0.06
+1213,5811,Quilted textile products,0.06
+1214,3406,,0.059
+1215,3406,Candles,0.059
+1216,4702,,0.056
+1217,4702,"Chemical woodpulp, dissolving grade",0.056
+1218,7418,Household articles of copper,0.053
+1219,7005,,0.053
+1220,7005,Float glass,0.053
+1221,7418,,0.053
+1222,7104,Synthetic precious stones,0.049
+1223,7104,,0.049
+1224,5806,Narrow woven fabrics,0.046
+1225,5806,,0.046
+1226,5007,,0.045
+1227,5007,Woven silk fabrics,0.045
+1228,9999,,0.044
+1229,9999,Commodities not specified according to kind,0.044
+1230,8452,Sewing machines,0.042
+1231,8452,,0.042
+1232,8474,,0.039
+1233,8474,Machinery for working minerals,0.039
+1234,7304,"Tubes, seamless, of iron or steel",0.038
+1235,7304,,0.038
+1236,5904,Linoleum,0.035
+1237,5904,,0.035
+1238,4405,,0.032
+1239,4405,Wood wool or flour,0.032
+1240,6913,,0.03
+1241,6913,Ornamental ceramic articles,0.03
+1242,0401,Milk,0.026
+1243,401,,0.026
+1244,5501,,0.022
+1245,5501,Synthetic filament tow,0.022
+1246,1205,Rape or colza seeds,0.021
+1247,1205,,0.021
+1248,3302,Mixtures of odoriferous subtances,0.021
+1249,3302,,0.021
+1250,1702,,0.019
+1251,1702,Other sugars,0.019
+1252,7316,Anchors of iron or steel,0.018
+1253,7316,,0.018
+1254,8606,,0.017
+1255,8606,"Railway cars, not self-propelled",0.017
+1256,4003,Reclaimed rubber,0.014
+1257,4003,,0.014
+1258,4817,Letterstock,0.009
+1259,4817,,0.009
+1260,7215,,0.008
+1261,9113,Watch straps,0.008
+1262,9113,,0.008
+1263,7215,Other bars and rods of iron or nonalloy steel,0.008
+1264,9607,Slide fasteners,0.006
+1265,9607,,0.006
+1266,5402,,0.002
+1267,5402,Synthetic filament yarn,0.002
+1268,2507,,0.001
+1269,2507,Kaolin,0.001
+1270,5515,Other woven fabrics of synthetic staple fibers,-0.002
+1271,5515,,-0.002
+1272,2618,,-0.004
+1273,2618,Granulated iron or steel slag,-0.004
+1274,7806,Other articles of lead,-0.009
+1275,7806,,-0.009
+1276,3205,Color lakes,-0.01
+1277,3205,,-0.01
+1278,2849,Carbides,-0.011
+1279,2849,,-0.011
+1280,4705,Semichemical woodpulp,-0.013
+1281,4705,,-0.013
+1282,6811,,-0.016
+1283,6811,Asbestos-cement or cellulose fiber-cement,-0.016
+1284,8309,,-0.017
+1285,8309,"Stoppers, caps and lids of metal",-0.017
+1286,7612,"Aluminum containers, <300 liters",-0.018
+1287,7612,,-0.018
+1288,3604,Fireworks,-0.021
+1289,3604,,-0.021
+1290,0210,Preserved meat,-0.023
+1291,210,,-0.023
+1292,7321,Stoves and similar non-electric appliances of iron or steel,-0.025
+1293,7321,,-0.025
+1294,1105,Potato flour,-0.03
+1295,1105,,-0.03
+1296,2209,,-0.033
+1297,2209,Vinegars,-0.033
+1298,7115,Other articles of precious metals,-0.034
+1299,9618,Mannequins,-0.034
+1300,7115,,-0.034
+1301,9618,,-0.034
+1302,2303,,-0.039
+1303,2303,Starch residues,-0.039
+1304,4014,,-0.041
+1305,4014,Rubber hygenic or pharmeceutical items,-0.041
+1306,7324,Sanitary ware and parts of iron or steel,-0.042
+1307,7324,,-0.042
+1308,2831,,-0.043
+1309,2831,Dithionites and sulfoxylates,-0.043
+1310,3802,,-0.047
+1311,3802,Activated carbon,-0.047
+1312,2942,,-0.052
+1313,2942,Other organic compounds,-0.052
+1314,3806,,-0.053
+1315,3806,Rosin and resin acids,-0.053
+1316,3917,Plastic tubes and fittings,-0.057
+1317,3917,,-0.057
+1318,7210,,-0.059
+1319,7210,"Flat rolled iron, width > 600mm, clad",-0.059
+1320,7106,Silver,-0.061
+1321,8702,,-0.061
+1322,7106,,-0.061
+1323,8702,Buses,-0.061
+1324,4823,Other paper cut to size,-0.062
+1325,4823,,-0.062
+1326,5901,,-0.062
+1327,5901,Stiffened textiles,-0.062
+1328,8111,Manganese,-0.064
+1329,8111,,-0.064
+1330,8520,Magnetic tape recorders,-0.065
+1331,2827,,-0.066
+1332,2827,"Chlorides, bromides, iodides etc.",-0.066
+1333,5006,"Silk yarn, for retail sale",-0.067
+1334,505,,-0.067
+1335,5006,,-0.067
+1336,0505,Feathers and down,-0.067
+1337,1522,,-0.068
+1338,1522,Degras and wax residues,-0.068
+1339,1518,"Animal or vegetable fats and oils, processed",-0.07
+1340,1518,,-0.07
+1341,5301,,-0.072
+1342,5301,"Flax, raw or processed",-0.072
+1343,7011,Glass envelopes,-0.075
+1344,7011,,-0.075
+1345,2206,,-0.077
+1346,2206,Other fermented beverages,-0.077
+1347,3402,Cleaning products,-0.08
+1348,3402,,-0.08
+1349,1603,Extracts and juices of meat or fish,-0.082
+1350,1603,,-0.082
+1351,8215,,-0.084
+1352,8215,Cutlery,-0.084
+1353,8212,Razors,-0.085
+1354,8212,,-0.085
+1355,7502,Nickel unwrought,-0.09
+1356,7502,,-0.09
+1357,8478,,-0.09
+1358,4201,Saddlery and harnesses,-0.09
+1359,4201,,-0.09
+1360,8478,Machinery for preparing tobacco,-0.09
+1361,4808,Corrugated paper and paperboard,-0.094
+1362,4808,,-0.094
+1363,1602,Other prepared or preserved meat,-0.095
+1364,1602,,-0.095
+1365,5510,,-0.095
+1366,5510,"Yarn of artificial staple fibers, not for retail sale",-0.095
+1367,8107,,-0.096
+1368,8107,Cadmium,-0.096
+1369,1107,Malt,-0.1
+1370,1107,,-0.1
+1371,3923,,-0.102
+1372,3923,Packing lids,-0.102
+1373,4703,"Chemical woodpulp, soda or sulfate",-0.106
+1374,4703,,-0.106
+1375,2840,,-0.109
+1376,2840,Borates,-0.109
+1377,2837,Cyanides,-0.111
+1378,2837,,-0.111
+1379,3213,Artists' colors,-0.115
+1380,3213,,-0.115
+1381,5809,,-0.121
+1382,5809,Woven fabric incorporating metal threads,-0.121
+1383,9606,Buttons,-0.121
+1384,9606,,-0.121
+1385,8907,Other floating structures,-0.123
+1386,8907,,-0.123
+1387,2819,,-0.124
+1388,2819,Chromium oxides and hydroxides,-0.124
+1389,5908,Textile wicks,-0.128
+1390,5908,,-0.128
+1391,5407,,-0.131
+1392,5407,Woven fabrics of synthetic filament yarn,-0.131
+1393,8802,,-0.133
+1394,8802,Other aircraft and spacecraft,-0.133
+1395,4909,,-0.133
+1396,4909,Printed or illustrated postcards,-0.133
+1397,8513,Portable electric lamps,-0.136
+1398,5805,,-0.136
+1399,5805,Hand-woven tapestries,-0.136
+1400,8513,,-0.136
+1401,2105,,-0.138
+1402,2105,Ice cream,-0.138
+1403,7311,Containers for compressed or liquified gas,-0.141
+1404,7311,,-0.141
+1405,2835,,-0.142
+1406,9609,"Pencils, crayons, pastels, etc.",-0.142
+1407,2835,Phosphates,-0.142
+1408,9609,,-0.142
+1409,4205,,-0.144
+1410,4205,Other articles of leather,-0.144
+1411,4804,,-0.146
+1412,9206,"Musical instruments, percussion",-0.146
+1413,9206,,-0.146
+1414,4804,Uncoated kraft paper and paperboard,-0.146
+1415,5311,Woven fabrics of vegetable textile fibers,-0.147
+1416,5311,,-0.147
+1417,7310,"Tanks etc. < 300 liters, iron or steel",-0.15
+1418,7310,,-0.15
+1419,5601,,-0.151
+1420,5601,Wadding of textile materials,-0.151
+1421,7301,,-0.154
+1422,7301,Sheet piling of iron or steel,-0.154
+1423,3706,,-0.155
+1424,3706,Motion-picture film,-0.155
+1425,4418,,-0.157
+1426,2808,Sulfonitric acids,-0.157
+1427,4418,Wood carpentry for construction,-0.157
+1428,2808,,-0.157
+1429,2526,,-0.158
+1430,3209,,-0.158
+1431,3209,"Paints and varnishes, aqueous",-0.158
+1432,2526,Natural steatite,-0.158
+1433,2807,,-0.159
+1434,2502,Unroasted iron pyrites,-0.159
+1435,2807,"Sulfiric acid, oleum",-0.159
+1436,2502,,-0.159
+1437,2909,Ethers,-0.16
+1438,2909,,-0.16
+1439,1001,,-0.161
+1440,1001,Wheat and meslin,-0.161
+1441,2845,,-0.162
+1442,2845,Non-radioactive isotopes,-0.162
+1443,2938,,-0.163
+1444,2938,Glycosides,-0.163
+1445,7314,,-0.164
+1446,7314,Cloth of iron or steel wire,-0.164
+1447,6303,,-0.167
+1448,6303,Curtains,-0.167
+1449,4707,,-0.169
+1450,4707,Paper waste,-0.169
+1451,5112,Woven fabrics of combed wool,-0.17
+1452,5112,,-0.17
+1453,2004,"Other vegetables, frozen",-0.172
+1454,2004,,-0.172
+1455,9704,,-0.177
+1456,9704,Postage or revenue stamps,-0.177
+1457,1503,"Lard oil, tallow oil etc.",-0.18
+1458,1503,,-0.18
+1459,3211,,-0.19
+1460,3211,Prepared driers,-0.19
+1461,6701,,-0.197
+1462,6701,Feathers or down,-0.197
+1463,5703,,-0.198
+1464,5703,"Carpets, tufted",-0.198
+1465,9702,,-0.199
+1466,9702,Original engravings,-0.199
+1467,6308,,-0.205
+1468,6308,Needlecraft sets of woven fabric and yarn,-0.205
+1469,2820,,-0.207
+1470,2820,Manganese oxides,-0.207
+1471,2839,,-0.215
+1472,4818,,-0.215
+1473,4818,Toilet paper,-0.215
+1474,2839,Silicates,-0.215
+1475,8906,Other vessels,-0.218
+1476,8906,,-0.218
+1477,3823,Industrial monocarboxylic fatty acids,-0.222
+1478,3823,,-0.222
+1479,1520,Glycerol,-0.229
+1480,1520,,-0.229
+1481,205,,-0.233
+1482,0205,Horse meat,-0.233
+1483,7101,Pearls,-0.236
+1484,4706,,-0.236
+1485,4706,Pulps of recovered paper fibers,-0.236
+1486,7101,,-0.236
+1487,3822,Diagnostic or laboratory reagents,-0.237
+1488,3822,,-0.237
+1489,2307,Wine lees,-0.237
+1490,8214,Other cutlery,-0.238
+1491,8214,,-0.238
+1492,2605,Cobalt ore,-0.239
+1493,2605,,-0.239
+1494,9602,Worked vegetable or mineral carving material,-0.24
+1495,9602,,-0.24
+1496,4406,,-0.245
+1497,4406,Wooden railway ties,-0.245
+1498,5804,Lace and net fabrics,-0.251
+1499,5804,,-0.251
+1500,7112,Scrap of precious metal,-0.253
+1501,7112,,-0.253
+1502,2512,,-0.257
+1503,2512,Siliceous fossil meals and earths,-0.257
+1504,5306,,-0.264
+1505,5306,Flax yarn,-0.264
+1506,1905,Bakery products,-0.271
+1507,4111,,-0.271
+1508,1905,,-0.271
+1509,4111,Composition leather,-0.271
+1510,0408,Egg yolks,-0.278
+1511,408,,-0.278
+1512,6911,,-0.281
+1513,6803,Worked slate,-0.281
+1514,6803,,-0.281
+1515,6911,Porcelain or china household articles,-0.281
+1516,1206,,-0.283
+1517,5807,,-0.283
+1518,5807,Labels and badges of textiles,-0.283
+1519,1206,Sunflower seeds,-0.283
+1520,8524,"Tapes, cassettes, records and compact disks",-0.288
+1521,8524,,-0.288
+1522,6309,Used clothes and textiles,-0.291
+1523,6309,,-0.291
+1524,6904,,-0.293
+1525,6904,Ceramic building bricks,-0.293
+1526,1901,,-0.296
+1527,1901,Malt extract,-0.296
+1528,5516,Woven fabrics of artificial staple fibers,-0.301
+1529,5516,,-0.301
+1530,8544,Insulated electrical wire,-0.302
+1531,8544,,-0.302
+1532,2205,"Wine, flavored",-0.305
+1533,2205,,-0.305
+1534,6001,"Pile fabrics, knit",-0.306
+1535,6001,,-0.306
+1536,2514,,-0.307
+1537,3501,,-0.307
+1538,3501,Casein,-0.307
+1539,2514,Slate,-0.307
+1540,2309,Animal feed,-0.311
+1541,2309,,-0.311
+1542,2833,,-0.315
+1543,2833,Sulfates,-0.315
+1544,6807,,-0.319
+1545,6807,Asphalt,-0.319
+1546,4108,,-0.319
+1547,4108,Chamois leather,-0.319
+1548,4401,Fuel wood,-0.329
+1549,4401,,-0.329
+1550,6403,,-0.33
+1551,6403,Leather footwear,-0.33
+1552,0207,Poultry,-0.334
+1553,207,,-0.334
+1554,2101,Coffee extracts,-0.34
+1555,2101,,-0.34
+1556,403,,-0.344
+1557,4419,,-0.344
+1558,4419,Wooden kitchenware,-0.344
+1559,5406,Synthetic filament yarn for retail sale,-0.344
+1560,5406,,-0.344
+1561,0403,Fermented milk products,-0.344
+1562,4404,Strips and other pieces of wood,-0.345
+1563,4404,,-0.345
+1564,2103,,-0.347
+1565,2103,Sauces and seasonings,-0.347
+1566,9301,,-0.349
+1567,9301,"Military weapons, other than pistols and swords",-0.349
+1568,1805,,-0.358
+1569,1805,Cocoa powder,-0.358
+1570,2620,"Slag, ash and residues containing metals",-0.359
+1571,2620,,-0.359
+1572,3202,Synthetic tanning substances,-0.361
+1573,3202,,-0.361
+1574,2712,,-0.363
+1575,2712,Petroleum jelly,-0.363
+1576,5609,,-0.371
+1577,5609,"Articles of yarn, rope etc not elsewhere clasified",-0.371
+1578,2204,,-0.376
+1579,2204,Wine,-0.376
+1580,7217,Wire of iron or nonalloy steel,-0.379
+1581,5509,,-0.379
+1582,5509,"Yarn of synthetic staple fibers, not for retail sale",-0.379
+1583,7217,,-0.379
+1584,4301,,-0.388
+1585,4301,Other raw furskins,-0.388
+1586,4015,Vulcanized rubber articles of apparel,-0.388
+1587,4015,,-0.388
+1588,7216,Angles of iron or nonalloy steel,-0.395
+1589,7216,,-0.395
+1590,4013,Rubber inner tubes,-0.396
+1591,4013,,-0.396
+1592,2804,Silicon & rare gases,-0.407
+1593,2804,,-0.407
+1594,6910,,-0.414
+1595,6910,"Ceramic sinks, washbasins, and similar sanitary fixtures",-0.414
+1596,9705,Collectors pieces,-0.417
+1597,9705,,-0.417
+1598,3924,,-0.424
+1599,3924,Plastic household articles,-0.424
+1600,2844,Uranium,-0.432
+1601,2844,,-0.432
+1602,2905,,-0.434
+1603,2905,Acyclic alcohols,-0.434
+1604,4421,Other articles of wood,-0.439
+1605,4421,,-0.439
+1606,405,,-0.442
+1607,5808,,-0.442
+1608,5808,Braids in piece,-0.442
+1609,0405,Butter,-0.442
+1610,4413,,-0.444
+1611,4413,Densified wood,-0.444
+1612,4819,,-0.446
+1613,4819,Cardboard packing containers,-0.446
+1614,2716,,-0.448
+1615,2716,Electrical energy,-0.448
+1616,2802,,-0.449
+1617,2802,"Sulfur, sublimed or precipitated",-0.449
+1618,2509,,-0.449
+1619,2509,Chalk,-0.449
+1620,8430,,-0.454
+1621,8430,"Other moving, excavating or boring machinery",-0.454
+1622,7010,,-0.455
+1623,7010,Glass containers for conveyance,-0.455
+1624,6404,,-0.457
+1625,6404,Textile footwear,-0.457
+1626,0206,Edible offal,-0.459
+1627,206,,-0.459
+1628,1213,,-0.46
+1629,4503,Articles of natural cork,-0.46
+1630,4503,,-0.46
+1631,1213,Cereal straw and husks,-0.46
+1632,8306,,-0.461
+1633,8306,"Ornaments, statuettes, etc. of metal",-0.461
+1634,4203,,-0.467
+1635,4203,Leather apparel,-0.467
+1636,5505,Waste of man-made fibers,-0.467
+1637,5505,,-0.467
+1638,4417,Wooden tools,-0.468
+1639,4417,,-0.468
+1640,3503,Gelatin,-0.472
+1641,3503,,-0.472
+1642,2208,Spirits < 80% alcohol,-0.472
+1643,2208,,-0.472
+1644,5401,Synthetic sowing thread,-0.479
+1645,5401,,-0.479
+1646,9404,,-0.48
+1647,7323,,-0.48
+1648,7323,Household articles of iron or steel,-0.48
+1649,9404,Mattresses and bedding,-0.48
+1650,9703,,-0.483
+1651,9703,Sculptures,-0.483
+1652,7213,,-0.485
+1653,7213,Hot rolled bars of iron,-0.485
+1654,5512,,-0.488
+1655,5512,Woven fabrics of > 85% synthetic staple fibers,-0.488
+1656,2818,,-0.493
+1657,2818,Aluminum oxide,-0.493
+1658,2508,,-0.495
+1659,2508,Clays,-0.495
+1660,2403,Other manufactured tobacco,-0.496
+1661,2403,,-0.496
+1662,8908,Floating structures for scrapping,-0.498
+1663,8908,,-0.498
+1664,8901,,-0.499
+1665,8901,Cargo ships and similar vessels,-0.499
+1666,7406,,-0.505
+1667,7406,Copper powders and flakes,-0.505
+1668,105,,-0.512
+1669,0105,Fowl,-0.512
+1670,9614,Smoking pipes,-0.519
+1671,2522,Quicklime,-0.519
+1672,2522,,-0.519
+1673,2832,,-0.519
+1674,2832,Sulfites,-0.519
+1675,9614,,-0.519
+1676,1904,Cereal foods,-0.521
+1677,1904,,-0.521
+1678,2829,,-0.54
+1679,2829,Sodium chlorate,-0.54
+1680,2519,,-0.541
+1681,4502,,-0.541
+1682,2519,Natural magnesia,-0.541
+1683,4502,"Natural cork, debacked",-0.541
+1684,2828,Hyopchlorites,-0.542
+1685,2828,,-0.542
+1686,8609,Containers for multimodal transportation,-0.544
+1687,8609,,-0.544
+1688,7001,,-0.546
+1689,7001,Cullet and other scraps of glass,-0.546
+1690,201,,-0.548
+1691,0201,Beef,-0.548
+1692,6801,"Flagstones, of natural stone",-0.557
+1693,6801,,-0.557
+1694,7317,Nails and similar articles of iron or steel,-0.558
+1695,7317,,-0.558
+1696,808,,-0.558
+1697,0808,Apples & pears,-0.558
+1698,2518,Dolomite,-0.559
+1699,2518,,-0.559
+1700,7615,Household articles of aluminum,-0.562
+1701,7615,,-0.562
+1702,2102,,-0.566
+1703,5810,,-0.566
+1704,5810,Embroidery in the piece,-0.566
+1705,2102,Yeasts,-0.566
+1706,1512,,-0.569
+1707,1512,Sunflower seed oil,-0.569
+1708,6213,Handkerchiefs,-0.572
+1709,6213,,-0.572
+1710,2201,Waters,-0.573
+1711,2201,,-0.573
+1712,7408,Copper wire,-0.575
+1713,7408,,-0.575
+1714,7303,,-0.575
+1715,7303,Tubes of cast iron,-0.575
+1716,6809,,-0.576
+1717,6809,Plaster articles,-0.576
+1718,6401,,-0.578
+1719,6401,Waterproof footwear,-0.578
+1720,1704,,-0.581
+1721,1704,Confectionery sugar,-0.581
+1722,9507,Fishing and hunting equipment,-0.583
+1723,2006,"Vegetables, fruits and nuts, preserved by sugar",-0.583
+1724,2006,,-0.583
+1725,9507,,-0.583
+1726,0102,Bovine,-0.587
+1727,102,,-0.587
+1728,2104,,-0.588
+1729,2104,Soups and broths,-0.588
+1730,407,,-0.591
+1731,0407,"Eggs, in shell",-0.591
+1732,3805,,-0.592
+1733,3805,Turpentines,-0.592
+1734,2517,Gravel,-0.593
+1735,2517,,-0.593
+1736,5207,,-0.594
+1737,9706,,-0.594
+1738,9706,Antiques >100 years,-0.594
+1739,5207,Cotton yarn for retail sale,-0.594
+1740,5003,,-0.605
+1741,5003,Silk waste,-0.605
+1742,701,,-0.61
+1743,0701,Potatoes,-0.61
+1744,402,,-0.617
+1745,0402,"Milk, concentrated",-0.617
+1746,3915,,-0.619
+1747,3915,Plastic waste,-0.619
+1748,705,,-0.621
+1749,0705,Lettuce,-0.621
+1750,2830,,-0.625
+1751,2830,Sulfides; polysulfides,-0.625
+1752,811,,-0.629
+1753,7204,,-0.629
+1754,7204,Ferrous waste and scrap,-0.629
+1755,0811,"Fruits and nuts, frozen",-0.629
+1756,4809,Carbon paper,-0.632
+1757,4809,,-0.632
+1758,2824,Lead oxides,-0.634
+1759,2824,,-0.634
+1760,2809,,-0.636
+1761,2809,Phosphoric acid etc.,-0.636
+1762,4107,Bovine leather further prepared,-0.639
+1763,4107,,-0.639
+1764,6306,,-0.64
+1765,6306,"Tents, tarpaulins, etc.",-0.64
+1766,7405,,-0.641
+1767,7405,Master alloys of copper,-0.641
+1768,4109,,-0.643
+1769,4109,Patent leather,-0.643
+1770,5104,Garnetted stock of wool or animal hair,-0.653
+1771,7306,,-0.653
+1772,5104,,-0.653
+1773,7306,"Other tubes, pipes and hollow profiles of iron or steel",-0.653
+1774,4302,,-0.654
+1775,4302,Other tanned furskins,-0.654
+1776,2613,Molybdenum ore,-0.655
+1777,2613,,-0.655
+1778,5211,Woven fabrics of cotton of < 85% weighing > 200 g/m2,-0.657
+1779,5211,,-0.657
+1780,5103,Wool or animal hair waste,-0.661
+1781,5103,,-0.661
+1782,2007,"Jams, jellies and marmalades",-0.666
+1783,2007,,-0.666
+1784,1803,Cocoa paste,-0.668
+1785,1803,,-0.668
+1786,6002,Other knitted fabrics,-0.675
+1787,6002,,-0.675
+1788,0601,Flower bulbs,-0.684
+1789,601,,-0.684
+1790,1204,,-0.685
+1791,1204,Linseed,-0.685
+1792,5210,,-0.694
+1793,5210,Woven fabrics of cotton of < 85% weighing < 200 g/m2,-0.694
+1794,4004,Scrap of rubber,-0.697
+1795,4004,,-0.697
+1796,2710,,-0.698
+1797,2710,"Petroleum oils, refined",-0.698
+1798,2714,"Bitumen and asphalt, natural",-0.7
+1799,2714,,-0.7
+1800,7206,,-0.702
+1801,7206,Iron and nonalloy steel,-0.702
+1802,4202,Trunks or cases,-0.705
+1803,4202,,-0.705
+1804,5508,Synthetic staple fibers sewing thread,-0.706
+1805,5508,,-0.706
+1806,3602,"Prepared explosives, except gunpowder",-0.707
+1807,3602,,-0.707
+1808,9605,Travel sets,-0.713
+1809,9605,,-0.713
+1810,2203,Beer,-0.715
+1811,2203,,-0.715
+1812,2904,,-0.718
+1813,2904,"Sulfonated, nitrated derivatives of hydrocarbons",-0.718
+1814,2202,,-0.719
+1815,2202,"Waters, flavored or sweetened",-0.719
+1816,9615,,-0.722
+1817,9615,"Combs, hair-slides etc.",-0.722
+1818,2715,Bituminous mixtures,-0.728
+1819,2715,,-0.728
+1820,7901,Unwrought zinc,-0.729
+1821,7901,,-0.729
+1822,5701,,-0.73
+1823,5701,"Carpets, knotted",-0.73
+1824,5514,Woven fabrics of < 85% synthetic staple fibers weighing > 170 g/m2,-0.738
+1825,5514,,-0.738
+1826,7602,"Waste or scrap, aluminium",-0.742
+1827,7602,,-0.742
+1828,6405,,-0.742
+1829,2521,,-0.742
+1830,2521,Limstone,-0.742
+1831,6405,Other footwear,-0.742
+1832,4420,,-0.75
+1833,4420,"Wood marquetry, ornaments, etc.",-0.75
+1834,6202,,-0.751
+1835,6202,"Womens overcoats, not knit",-0.751
+1836,3603,,-0.755
+1837,3603,Detonators,-0.755
+1838,706,,-0.762
+1839,0706,Carrots & turnips,-0.762
+1840,6216,Gloves,-0.769
+1841,6216,,-0.769
+1842,2009,Fruit juices,-0.77
+1843,2009,,-0.77
+1844,7605,Aluminum wire,-0.773
+1845,7605,,-0.773
+1846,7903,Zinc powders,-0.776
+1847,7903,,-0.776
+1848,5607,Twine and ropes of baste fibers,-0.781
+1849,5607,,-0.781
+1850,4820,Notebooks,-0.781
+1851,4820,,-0.781
+1852,1108,Starches,-0.782
+1853,1108,,-0.782
+1854,6812,Asbestos fibres,-0.789
+1855,6812,,-0.789
+1856,7614,"Aluminum wire, not insulated",-0.791
+1857,7614,,-0.791
+1858,506,,-0.795
+1859,0506,"Bones, simply prepared",-0.795
+1860,4501,,-0.799
+1861,4501,"Natural cork, raw",-0.799
+1862,7603,,-0.8
+1863,7603,Aluminum powders,-0.8
+1864,3103,Phosphatic fertilizers,-0.802
+1865,3103,,-0.802
+1866,5608,,-0.803
+1867,5608,Nets,-0.803
+1868,2704,,-0.804
+1869,2704,Coke,-0.804
+1870,6210,Garments made of textile felts and nonwoven fabric,-0.805
+1871,6210,,-0.805
+1872,4304,,-0.809
+1873,4304,Artificial fur,-0.809
+1874,8105,,-0.815
+1875,8105,Cobalt,-0.815
+1876,5204,Cotton sewing thread,-0.816
+1877,5204,,-0.816
+1878,4408,Sheets for veneering for plywood,-0.824
+1879,1209,Seeds used for sowing,-0.824
+1880,1209,,-0.824
+1881,4408,,-0.824
+1882,4907,,-0.826
+1883,4907,Unused stamps,-0.826
+1884,4412,Plywood,-0.829
+1885,4412,,-0.829
+1886,4504,,-0.834
+1887,4504,Agglomerated cork,-0.834
+1888,2001,,-0.835
+1889,2001,Pickled fruits and vegetables,-0.835
+1890,2505,,-0.838
+1891,2505,Natural sands,-0.838
+1892,4803,,-0.84
+1893,4803,Tissue,-0.84
+1894,1104,Worked cereal grains,-0.845
+1895,1104,,-0.845
+1896,8902,Fishing vessels,-0.849
+1897,8902,,-0.849
+1898,6501,,-0.855
+1899,6501,Hat forms,-0.855
+1900,1517,,-0.859
+1901,1517,Margarine,-0.859
+1902,2002,,-0.861
+1903,2002,"Tomatoes, prepared or preserved",-0.861
+1904,3101,,-0.862
+1905,3101,Animal or vegetable fertilizers,-0.862
+1906,2713,,-0.864
+1907,2713,Petroleum coke,-0.864
+1908,6802,Worked building stone,-0.865
+1909,6115,,-0.865
+1910,6115,"Socks, stockings, etc., knit",-0.865
+1911,6802,,-0.865
+1912,707,,-0.868
+1913,2836,,-0.868
+1914,2836,Carbonates,-0.868
+1915,0301,Live Fish,-0.868
+1916,301,,-0.868
+1917,0707,Cucumbers,-0.868
+1918,1214,Forage products,-0.871
+1919,1214,,-0.871
+1920,1510,"Olive oil, blended",-0.873
+1921,1510,,-0.873
+1922,2306,Solid vegetable oil and fat residues,-0.882
+1923,2306,,-0.882
+1924,0710,Frozen vegetables,-0.887
+1925,710,,-0.887
+1926,2402,Cigars and cigarettes,-0.887
+1927,2402,,-0.887
+1928,7802,,-0.888
+1929,7802,Lead waste or scrap,-0.888
+1930,2005,"Other vegetables, prepared or preserved",-0.892
+1931,2005,,-0.892
+1932,1509,,-0.895
+1933,1509,Olive oil,-0.895
+1934,7902,,-0.897
+1935,7902,Zinc waste and scrap,-0.897
+1936,2308,Vegetable materials for animal feeding,-0.902
+1937,2308,,-0.902
+1938,704,,-0.906
+1939,0704,"Cabbages, cauliflowers, broccoli",-0.906
+1940,2207,Ethyl alcohol > 80%,-0.907
+1941,2207,,-0.907
+1942,5511,,-0.912
+1943,5511,"Yarn of synthetic staple fibers, for retail sale",-0.912
+1944,3201,,-0.914
+1945,3201,Vegetable tanning extracts,-0.914
+1946,2513,,-0.914
+1947,6504,,-0.914
+1948,6504,Hats,-0.914
+1949,2513,Natural abrasives,-0.914
+1950,2619,Iron or steel slag,-0.922
+1951,2619,,-0.922
+1952,1902,Pasta,-0.934
+1953,1902,,-0.934
+1954,6214,,-0.939
+1955,6214,"Shawls, scarves, etc.",-0.939
+1956,5702,,-0.94
+1957,5702,Woven carpets and rugs,-0.94
+1958,6201,,-0.942
+1959,6201,"Men's overcoats, not knit",-0.942
+1960,1502,,-0.944
+1961,1502,"Bovine, sheep and goat fats",-0.944
+1962,0813,"Fruits, dried",-0.945
+1963,813,,-0.945
+1964,4409,,-0.948
+1965,4409,Wood shaped along its edges,-0.948
+1966,5212,,-0.949
+1967,5212,Other woven cotton fabrics,-0.949
+1968,6907,,-0.953
+1969,6907,Unglazed ceramic flags and pavers,-0.953
+1970,1903,,-0.957
+1971,6208,,-0.957
+1972,6208,Women's undergarments,-0.957
+1973,1903,Tapioca,-0.957
+1974,6112,"Activewear, knit",-0.958
+1975,6112,,-0.958
+1976,6406,,-0.961
+1977,0906,Cinnamon,-0.961
+1978,906,,-0.961
+1979,6406,Parts of footwear,-0.961
+1980,4110,,-0.963
+1981,4110,Waste of leather,-0.963
+1982,5308,Yarn of other vegetable textile fibers,-0.965
+1983,9601,Worked animal carving material,-0.965
+1984,9601,,-0.965
+1985,5308,,-0.965
+1986,1103,Cereal meals,-0.97
+1987,1103,,-0.97
+1988,0504,"Animal guts, except fish",-0.972
+1989,504,,-0.972
+1990,1515,,-0.975
+1991,1515,Other vegetable fats and oils,-0.975
+1992,1519,Stearic acid,-0.976
+1993,1519,,-0.976
+1994,711,,-0.977
+1995,0711,"Vegetables, provisionally preserved",-0.977
+1996,5705,,-0.983
+1997,5705,Other carpets,-0.983
+1998,6402,Other footwear of rubber or plastics,-0.985
+1999,6402,,-0.985
+2000,6217,Other clothing accesories,-0.986
+2001,6217,,-0.986
+2002,6302,House linen,-0.993
+2003,6302,,-0.993
+2004,6116,"Gloves, knit",-1.006
+2005,6116,,-1.006
+2006,7207,,-1.008
+2007,7207,Semifinished products of iron or nonalloy steel,-1.008
+2008,2528,Natural borates,-1.01
+2009,2528,,-1.01
+2010,2525,,-1.015
+2011,2525,Mica,-1.015
+2012,0809,Peaches & cherries,-1.015
+2013,809,,-1.015
+2014,5105,"Wool, combed",-1.017
+2015,5105,,-1.017
+2016,0409,Honey,-1.028
+2017,409,,-1.028
+2018,511,,-1.03
+2019,0511,Animal products n.e.c.,-1.03
+2020,7203,,-1.031
+2021,7203,Ferrous products from the reduction of iron ore,-1.031
+2022,2810,Oxides of boron; boric acids,-1.031
+2023,2810,,-1.031
+2024,XXXX,Trade data discrepancies,-1.032
+2025,6211,,-1.039
+2026,3401,Soap,-1.039
+2027,6211,Activewear,-1.039
+2028,3401,,-1.039
+2029,6113,Garments knit with impregnated fibers,-1.048
+2030,6113,,-1.048
+2031,4407,Wood sawn lengthwise,-1.052
+2032,4407,,-1.052
+2033,8904,Tugs and pusher craft,-1.055
+2034,8904,,-1.055
+2035,6901,"Bricks, blocks, and other ceramic goods",-1.056
+2036,6901,,-1.056
+2037,9505,Christmas and other festivity articles,-1.064
+2038,9505,,-1.064
+2039,0604,Other parts of plants,-1.065
+2040,604,,-1.065
+2041,7404,,-1.067
+2042,7404,Copper waste and scrap,-1.067
+2043,1005,Corn,-1.076
+2044,1005,,-1.076
+2045,6307,,-1.084
+2046,6307,Other made up articles,-1.084
+2047,6505,,-1.092
+2048,6505,"Hats, knit",-1.092
+2049,602,,-1.098
+2050,0602,Other live plants,-1.098
+2051,7202,Ferroalloys,-1.099
+2052,7202,,-1.099
+2053,2814,Ammonia,-1.1
+2054,2814,,-1.1
+2055,0709,Other vegetables,-1.111
+2056,6908,,-1.111
+2057,709,,-1.111
+2058,6908,Glazed ceramic flags and pavers,-1.111
+2059,1401,,-1.116
+2060,1401,Vegetable materials used for plaiting,-1.116
+2061,6310,,-1.117
+2062,6310,Used or new rags textile scraps,-1.117
+2063,6209,Babies' garments,-1.118
+2064,6209,,-1.118
+2065,5802,Terry cloth,-1.121
+2066,5802,,-1.121
+2067,0106,Other live animals,-1.126
+2068,106,,-1.126
+2069,202,,-1.129
+2070,0202,Beef (frozen),-1.129
+2071,2801,Iodine,-1.133
+2072,2801,,-1.133
+2073,0302,"Fish, excluding fillets",-1.139
+2074,302,,-1.139
+2075,1604,,-1.145
+2076,1604,Prepared or preserved fish,-1.145
+2077,6206,Women's shirts,-1.15
+2078,6206,,-1.15
+2079,5513,Woven fabrics of < 85% synthetic staple fibers weighing < 170 g/m2,-1.152
+2080,5513,,-1.152
+2081,2524,,-1.153
+2082,2524,Asbestos,-1.153
+2083,2501,,-1.154
+2084,8905,,-1.154
+2085,8905,"Special function vessels, n.e.c.",-1.154
+2086,6212,,-1.154
+2087,6212,Brassieres,-1.154
+2088,2501,Salt,-1.154
+2089,2008,,-1.155
+2090,2008,"Fruits and nuts, otherwise prepared",-1.155
+2091,7601,,-1.164
+2092,7601,Unwrought aluminum,-1.164
+2093,6204,,-1.166
+2094,6204,Women's suits and pants,-1.166
+2095,7201,Pig iron,-1.166
+2096,7201,,-1.166
+2097,1804,Cocoa butter,-1.175
+2098,2529,Feldspar,-1.175
+2099,2529,,-1.175
+2100,1804,,-1.175
+2101,1101,Wheat or meslin flour,-1.18
+2102,1101,,-1.18
+2103,6117,,-1.186
+2104,6117,"Other clothing accesories, knit",-1.186
+2105,5203,,-1.189
+2106,5203,"Cotton, carded or combed",-1.189
+2107,2805,,-1.192
+2108,2805,Rare-earth metals,-1.192
+2109,3301,,-1.198
+2110,3301,Essential oils,-1.198
+2111,6301,Blankets,-1.203
+2112,6301,,-1.203
+2113,6203,,-1.207
+2114,6203,Men's suits and pants,-1.207
+2115,8001,Unwrought tin,-1.213
+2116,8001,,-1.213
+2117,4403,Wood in the rough,-1.214
+2118,4403,,-1.214
+2119,0304,Fish fillets,-1.216
+2120,304,,-1.216
+2121,1516,"Vegetable fats, hydrogenated",-1.218
+2122,1516,,-1.218
+2123,1513,,-1.228
+2124,1513,Coconut & palm kernel oil,-1.228
+2125,6502,Hat shapes,-1.234
+2126,6502,,-1.234
+2127,6205,Men's shirts,-1.243
+2128,6205,,-1.243
+2129,6101,"Men's overcoats, knit",-1.244
+2130,4206,,-1.244
+2131,4206,Articles of gut,-1.244
+2132,6101,,-1.244
+2133,6110,"Sweaters, pullovers, sweatshirts etc., knit",-1.251
+2134,6110,,-1.251
+2135,6304,Other furnishing articles,-1.267
+2136,6304,,-1.267
+2137,0805,Citrus fruit,-1.269
+2138,805,,-1.269
+2139,1302,Vegetable saps and extracts,-1.274
+2140,1302,,-1.274
+2141,6102,,-1.299
+2142,6102,"Women's overcoats, knit",-1.299
+2143,8110,,-1.3
+2144,2504,Natural graphite,-1.3
+2145,8110,Antimony,-1.3
+2146,812,,-1.3
+2147,2504,,-1.3
+2148,0812,"Fruits and nuts, provisionally preserved",-1.3
+2149,7102,Diamonds,-1.303
+2150,7102,,-1.303
+2151,5206,Cotton yarn of < 85%,-1.305
+2152,5206,,-1.305
+2153,806,,-1.307
+2154,0806,Grapes,-1.307
+2155,7313,,-1.308
+2156,7313,Barbed wire of iron or steel,-1.308
+2157,1507,Soybean oil,-1.309
+2158,1507,,-1.309
+2159,3104,,-1.313
+2160,3104,Potassic fertilizers,-1.313
+2161,7214,"Other bars of iron, not further worked than forged",-1.32
+2162,7214,,-1.32
+2163,6207,,-1.32
+2164,6207,Men's undergarments,-1.32
+2165,6111,"Babies' garments, knit",-1.321
+2166,6111,,-1.321
+2167,7401,,-1.323
+2168,7401,Copper mattes,-1.323
+2169,3605,Matches,-1.326
+2170,3605,,-1.326
+2171,712,,-1.33
+2172,0712,"Vegetables, dried",-1.33
+2173,0204,Lamb,-1.341
+2174,204,,-1.341
+2175,2523,Cements,-1.343
+2176,4601,,-1.343
+2177,6107,,-1.343
+2178,6107,"Men's undergarments, knit",-1.343
+2179,4601,Products of plaiting materials,-1.343
+2180,2523,,-1.343
+2181,2520,,-1.345
+2182,2520,Gypsum,-1.345
+2183,2607,,-1.346
+2184,2607,Lead ore,-1.346
+2185,303,,-1.347
+2186,0303,"Frozen fish, excluding fillets",-1.347
+2187,907,,-1.35
+2188,0907,Cloves,-1.35
+2189,3105,,-1.352
+2190,3105,Mixed fertilizers,-1.352
+2191,1521,Vegetable waxes and beeswax,-1.358
+2192,1521,,-1.358
+2193,6114,,-1.36
+2194,6114,"Other garments, knit",-1.36
+2195,5208,Woven fabrics of cotton of > 85% weighing < 200 g/m2,-1.368
+2196,5208,,-1.368
+2197,7103,,-1.371
+2198,7103,Precious stones,-1.371
+2199,2506,Quartz,-1.375
+2200,909,,-1.375
+2201,0909,"Anise, fennel, etc.",-1.375
+2202,2506,,-1.375
+2203,810,,-1.385
+2204,0810,Other fresh fruit,-1.385
+2205,508,,-1.399
+2206,0508,Coral and shells,-1.399
+2207,2515,,-1.401
+2208,2515,Marble,-1.401
+2209,702,,-1.408
+2210,0307,Molluscs,-1.408
+2211,307,,-1.408
+2212,0702,Tomatoes,-1.408
+2213,0901,Coffee,-1.411
+2214,901,,-1.411
+2215,5209,,-1.416
+2216,5209,Woven fabrics of cotton of < 85% weighing > 200 g/m2,-1.416
+2217,2510,Natural calcium phosphates,-1.417
+2218,2510,,-1.417
+2219,2503,,-1.421
+2220,2503,"Sulphur, crude",-1.421
+2221,1504,Fish oils,-1.421
+2222,1504,,-1.421
+2223,908,,-1.424
+2224,0908,Nutmeg,-1.424
+2225,6109,,-1.43
+2226,6109,"T-shirts, knit",-1.43
+2227,4602,,-1.453
+2228,4602,Basketwork,-1.453
+2229,5001,,-1.456
+2230,5001,Silkworm cocoons,-1.456
+2231,2301,,-1.458
+2232,2301,"Flours of fish, for animal feed",-1.458
+2233,905,,-1.462
+2234,0905,Vanilla,-1.462
+2235,6104,"Women's suits, knit",-1.464
+2236,6104,,-1.464
+2237,2511,Natural barium sulfate,-1.473
+2238,2511,,-1.473
+2239,2702,,-1.475
+2240,2702,Lignite,-1.475
+2241,807,,-1.477
+2242,0807,Melons and papayas,-1.477
+2243,6106,"Women's shirts, knit",-1.478
+2244,6106,,-1.478
+2245,4102,Raw skins of sheep or lambs,-1.48
+2246,2608,Zinc ore,-1.48
+2247,2608,,-1.48
+2248,7403,Refined copper and copper alloys,-1.48
+2249,7403,,-1.48
+2250,4102,,-1.48
+2251,6108,"Women's undergarments, knit",-1.483
+2252,6108,,-1.483
+2253,4104,,-1.484
+2254,4104,Tanned hides of bovines or equines,-1.484
+2255,6105,"Men's shirts, knit",-1.493
+2256,6105,,-1.493
+2257,803,,-1.513
+2258,0803,Bananas and plantains,-1.513
+2259,104,,-1.514
+2260,0104,Sheep,-1.514
+2261,0802,Other nuts,-1.517
+2262,802,,-1.517
+2263,1008,Other cereals,-1.522
+2264,1008,,-1.522
+2265,1701,Sugarcane & sucrose,-1.525
+2266,1701,,-1.525
+2267,1508,,-1.526
+2268,1508,Peanut oil,-1.526
+2269,0510,Animal products used in pharmaceuticals,-1.535
+2270,510,,-1.535
+2271,903,,-1.537
+2272,0903,Mate,-1.537
+2273,6103,,-1.547
+2274,6103,"Men's suits, knit",-1.547
+2275,2401,Unmanufactured tobacco,-1.553
+2276,2401,,-1.553
+2277,1605,Prepared aquatic invertibrates,-1.556
+2278,1605,,-1.556
+2279,507,,-1.562
+2280,0507,Whalebone & horns,-1.562
+2281,0910,Spices,-1.565
+2282,910,,-1.565
+2283,1106,Flour of dried legumes,-1.566
+2284,1106,,-1.566
+2285,1102,Cereal flours,-1.575
+2286,1102,,-1.575
+2287,3102,Nitrogenous fertilizers,-1.575
+2288,3102,,-1.575
+2289,2601,,-1.583
+2290,2601,Iron ores and concentrates,-1.583
+2291,1703,,-1.586
+2292,1703,Molasses,-1.586
+2293,4101,Raw hides of bovines or equines,-1.589
+2294,4101,,-1.589
+2295,904,,-1.597
+2296,0904,Pepper,-1.597
+2297,2516,Granite,-1.629
+2298,2516,,-1.629
+2299,2304,,-1.647
+2300,2304,Solid soybean residues,-1.647
+2301,7402,Unrefined copper,-1.648
+2302,7402,,-1.648
+2303,7801,,-1.663
+2304,7801,Lead refined unwrought,-1.663
+2305,1006,,-1.666
+2306,1006,Rice,-1.666
+2307,1212,Seaweeds & edible vegetable products,-1.672
+2308,1212,,-1.672
+2309,5305,,-1.684
+2310,5305,Vegetable textile fibers,-1.684
+2311,0603,Cut flowers,-1.696
+2312,603,,-1.696
+2313,5101,Wool,-1.698
+2314,5101,,-1.698
+2315,2711,Petroleum gases,-1.702
+2316,2711,,-1.702
+2317,1211,"Plants used in perfumery, pharmacy or insecticide",-1.709
+2318,1211,,-1.709
+2319,4106,Tanned skins of other animals,-1.71
+2320,4106,,-1.71
+2321,6703,,-1.714
+2322,6703,Human animal hair prepared for use in wigs,-1.714
+2323,2614,,-1.721
+2324,2614,Titanium ore,-1.721
+2325,0804,"Avocados, pineapples, mangos, etc.",-1.734
+2326,804,,-1.734
+2327,2611,Tungsten ore,-1.744
+2328,2611,,-1.744
+2329,4402,Wood charcoal,-1.749
+2330,4402,,-1.749
+2331,1203,,-1.753
+2332,1203,Copra,-1.753
+2333,7501,Nickel mattes,-1.756
+2334,7501,,-1.756
+2335,0305,Preserved fish,-1.78
+2336,305,,-1.78
+2337,5307,,-1.783
+2338,5307,Yarn of textile bast fibers,-1.783
+2339,0306,Crustaceans,-1.792
+2340,306,,-1.792
+2341,6305,,-1.797
+2342,6305,Bags for packing goods,-1.797
+2343,5202,,-1.8
+2344,5202,Cotton waste,-1.8
+2345,5205,Cotton yarn of > 85%,-1.806
+2346,5205,,-1.806
+2347,0708,Legumes,-1.814
+2348,708,,-1.814
+2349,2701,,-1.816
+2350,2701,Coal,-1.816
+2351,0814,Peel of citrus fruit or melons,-1.824
+2352,814,,-1.824
+2353,2616,,-1.838
+2354,2616,Precious metal ores,-1.838
+2355,801,,-1.853
+2356,0801,Cashew nuts & coconuts,-1.853
+2357,2825,,-1.876
+2358,2825,"Metal base oxides, n.e.c.",-1.876
+2359,1511,Palm oil,-1.893
+2360,1511,,-1.893
+2361,902,,-1.897
+2362,0902,Tea,-1.897
+2363,0713,"Legumes, dried",-1.922
+2364,713,,-1.922
+2365,4105,Tanned sheepskins,-1.934
+2366,4105,,-1.934
+2367,4001,,-1.937
+2368,4001,Natural rubber,-1.937
+2369,1007,,-1.951
+2370,1007,Grain sorghum,-1.951
+2371,2822,Cobalt oxides and hydroxides,-1.999
+2372,2822,,-1.999
+2373,2603,Copper ore,-2.0
+2374,2603,,-2.0
+2375,1201,Soya beans,-2.003
+2376,1201,,-2.003
+2377,1404,,-2.013
+2378,1404,Vegetable products n.e.c.,-2.013
+2379,1207,,-2.014
+2380,1207,Other oil seeds,-2.014
+2381,1202,Peanuts,-2.046
+2382,1202,,-2.046
+2383,2302,Cereal residues,-2.07
+2384,2302,,-2.07
+2385,2604,,-2.088
+2386,2604,Nickel ore,-2.088
+2387,0703,"Onions, shallots, garlic",-2.135
+2388,703,,-2.135
+2389,1208,Flours of oil seeds,-2.194
+2390,1208,,-2.194
+2391,7108,Gold,-2.235
+2392,7108,,-2.235
+2393,2606,,-2.24
+2394,2606,Aluminum ore,-2.24
+2395,6704,,-2.241
+2396,6704,Wigs,-2.241
+2397,2305,Solid peanut residues,-2.243
+2398,2305,,-2.243
+2399,2530,,-2.254
+2400,2530,Mineral substances n.e.c.,-2.254
+2401,5303,,-2.26
+2402,5303,Textile bast fibers,-2.26
+2403,2709,"Petroleum oils, crude",-2.269
+2404,2709,,-2.269
+2405,4103,,-2.272
+2406,4103,Other raw hides and skins,-2.272
+2407,714,,-2.286
+2408,0714,Tubers,-2.286
+2409,5310,,-2.31
+2410,5310,Woven fabrics of jute or of other textile bast fibers,-2.31
+2411,2615,,-2.329
+2412,2615,Zirconium ore,-2.329
+2413,5102,Animal hair,-2.38
+2414,1802,Cocoa residues,-2.38
+2415,1802,,-2.38
+2416,5102,,-2.38
+2417,1301,,-2.393
+2418,1301,Lac,-2.393
+2419,2602,Manganese > 47% by weight,-2.446
+2420,2602,,-2.446
+2421,2617,,-2.455
+2422,2617,Other ores,-2.455
+2423,501,,-2.464
+2424,0501,"Human hair, unworked",-2.464
+2425,2610,,-2.469
+2426,2610,Chromium ore,-2.469
+2427,1801,,-2.482
+2428,1801,Cocoa beans,-2.482
+2429,2612,,-2.538
+2430,2612,Uranium ore,-2.538
+2431,5201,,-2.562
+2432,5201,Raw cotton,-2.562
+2433,2609,Tin ore,-2.613
+2434,2609,,-2.613
