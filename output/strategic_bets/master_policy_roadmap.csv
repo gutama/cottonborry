@@ -1,0 +1,52 @@
+timeframe,zone,hs_code,product,action,current_export,current_pci,current_rca,target_rca,pci,density,efficiency,cog
+short_term,Upgrade & Deepen,2701,Coal,Quality upgrade & value chain enhancement,32822622303.0,-1.816,,,,,,
+short_term,Upgrade & Deepen,1511,Palm oil,Quality upgrade & value chain enhancement,21740433933.0,-1.893,,,,,,
+short_term,Upgrade & Deepen,7202,Ferroalloys,Quality upgrade & value chain enhancement,14346149272.0,-1.099,,,,,,
+short_term,Upgrade & Deepen,2711,Petroleum gases,Quality upgrade & value chain enhancement,8442707061.0,-1.702,,,,,,
+short_term,Upgrade & Deepen,2603,Copper ore,Quality upgrade & value chain enhancement,8012782146.0,-2.0,,,,,,
+short_term,Standard ECI-OPT,2403,Other manufactured tobacco,Scale up production & market penetration,,,0.991284,1.0,,,,
+short_term,Standard ECI-OPT,2103,Sauces and seasonings,Scale up production & market penetration,,,0.99061,1.0,,,,
+short_term,Standard ECI-OPT,3915,Plastic waste,Scale up production & market penetration,,,0.98428,1.0,,,,
+short_term,Standard ECI-OPT,5505,Waste of man-made fibers,Scale up production & market penetration,,,0.980843,1.0,,,,
+short_term,Standard ECI-OPT,4202,Trunks or cases,Scale up production & market penetration,,,0.975226,1.0,,,,
+medium_term,Standard ECI-OPT,8527,Reception apparatus for radio broadcasting,Systematic capability development,,,,,0.952,0.19499999999999995,,
+medium_term,Standard ECI-OPT,4007,Vulcanized rubber thread and cord,Systematic capability development,,,,,0.839,0.22499999999999998,,
+medium_term,Standard ECI-OPT,8529,"Parts of radios, telephones, and T.V.s",Systematic capability development,,,,,0.824,0.20799999999999996,,
+medium_term,Standard ECI-OPT,8541,Semiconductor devices,Systematic capability development,,,,,0.56,0.21499999999999997,,
+medium_term,Standard ECI-OPT,9403,Other furniture and parts,Systematic capability development,,,,,0.24,0.19799999999999995,,
+medium_term,Standard ECI-OPT,7604,Aluminum bars,Systematic capability development,,,,,0.139,0.20199999999999996,,
+medium_term,Standard ECI-OPT,4017,Hard rubber,Systematic capability development,,,,,0.108,0.19499999999999995,,
+medium_term,Standard ECI-OPT,4411,Fiberboard of wood,Systematic capability development,,,,,0.073,0.20099999999999996,,
+medium_term,Leveraged Strategic Bets,7014,Signaling glassware,Targeted capability acquisition,,,0.404269,,1.843,,,
+medium_term,Leveraged Strategic Bets,2912,Aldehydes,Targeted capability acquisition,,,0.887365,,1.698,,,
+medium_term,Leveraged Strategic Bets,3906,Acrylic polymers,Targeted capability acquisition,,,0.455599,,1.542,,,
+medium_term,Leveraged Strategic Bets,9107,Time switches,Targeted capability acquisition,,,0.897776,,1.43,,,
+medium_term,Leveraged Strategic Bets,2940,"Other sugars, chemically pure",Targeted capability acquisition,,,0.743585,,1.334,,,
+medium_term,Standard Strategic Bets,8542,Electronic integrated circuits,New product development with capability leverage,,,,,,,1.849875930521092,0.958
+medium_term,Standard Strategic Bets,9617,Vacuum vessels,New product development with capability leverage,,,,,,,1.2339901477832511,0.001
+medium_term,Standard Strategic Bets,8471,Computers,New product development with capability leverage,,,,,,,1.2174447174447176,0.769
+medium_term,Standard Strategic Bets,9114,Other clock or watch parts,New product development with capability leverage,,,,,,,1.1400491400491402,0.953
+medium_term,Standard Strategic Bets,8534,Electronic printed circuits,New product development with capability leverage,,,,,,,1.1052631578947367,0.839
+medium_term,Standard Strategic Bets,9111,Watch cases and parts,New product development with capability leverage,,,,,,,1.0613496932515338,0.685
+medium_term,Standard Strategic Bets,8517,Telephones,New product development with capability leverage,,,,,,,0.9728729963008631,0.654
+medium_term,Standard Strategic Bets,7020,Other articles of glass,New product development with capability leverage,,,,,,,0.8824969400244799,0.842
+long_term,Upgrade & Deepen,2701,Coal,Frontier transformation - highest complexity variants,32822622303.0,,,,,,,
+long_term,Upgrade & Deepen,1511,Palm oil,Frontier transformation - highest complexity variants,21740433933.0,,,,,,,
+long_term,Upgrade & Deepen,7202,Ferroalloys,Frontier transformation - highest complexity variants,14346149272.0,,,,,,,
+long_term,Upgrade & Deepen,2711,Petroleum gases,Frontier transformation - highest complexity variants,8442707061.0,,,,,,,
+long_term,Upgrade & Deepen,2603,Copper ore,Frontier transformation - highest complexity variants,8012782146.0,,,,,,,
+long_term,Strategic Leaps (FDI-led),3705,"Photographic film, developed",FDI-led capability jump,,,,,2.826,,,0.956
+long_term,Strategic Leaps (FDI-led),7506,Nickel plates,FDI-led capability jump,,,,,2.565,,,1.183
+long_term,Strategic Leaps (FDI-led),8444,"Machines to extrude, cut manmade textile fibres",FDI-led capability jump,,,,,2.473,,,1.111
+long_term,Strategic Leaps (FDI-led),7006,Worked glass,FDI-led capability jump,,,,,2.398,,,0.979
+long_term,Strategic Leaps (FDI-led),8113,Cermets,FDI-led capability jump,,,,,2.271,,,0.985
+long_term,Strategic Leaps (FDI-led),8479,Machines n.e.c.,FDI-led capability jump,,,,,2.244,,,1.429
+long_term,Strategic Leaps (FDI-led),7221,"Bars of stainless steel, hot-rolled",FDI-led capability jump,,,,,2.13,,,1.225
+long_term,Strategic Leaps (FDI-led),8456,Machines for working materials by laser and similar means,FDI-led capability jump,,,,,2.073,,,1.335
+long_term,Strategic Leaps (FDI-led),2919,Phosporic esters,FDI-led capability jump,,,,,2.042,,,1.221
+long_term,Strategic Leaps (FDI-led),2843,Compounds of precious metals,FDI-led capability jump,,,,,2.009,,,1.207
+long_term,Strategic Leaps (Gateway),8514,Industrial electric furnaces,Gateway product - foundation for future diversification,,,,,,,,1.499
+long_term,Strategic Leaps (Gateway),2926,Nitrile-function compounds,Gateway product - foundation for future diversification,,,,,,,,1.481
+long_term,Strategic Leaps (Gateway),9017,Drafting tables and machines,Gateway product - foundation for future diversification,,,,,,,,1.479
+long_term,Strategic Leaps (Gateway),8413,Pumps for liquids,Gateway product - foundation for future diversification,,,,,,,,1.464
+long_term,Strategic Leaps (Gateway),8477,Machinery for working rubber or plastics,Gateway product - foundation for future diversification,,,,,,,,1.458

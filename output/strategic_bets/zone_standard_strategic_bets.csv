@@ -1,0 +1,230 @@
+product_hs92_code,product_name_short,product_name,export_rca,density,pci,cog,export_value,efficiency
+8542,Electronic integrated circuits,Electronic integrated circuits; parts thereof,0.105618,0.19499999999999995,1.491,0.958,764858390,1.849875930521092
+9617,Vacuum vessels,"Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners:",0.015241,0.18899999999999995,1.002,0.001,923184,1.2339901477832511
+8471,Computers,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",0.073433,0.18700000000000006,0.991,0.769,243659875,1.2174447174447176
+9114,Other clock or watch parts,Other clock or watch parts,0.01036,0.18700000000000006,0.928,0.953,184681,1.1400491400491402
+8534,Electronic printed circuits,Electronic printed circuits,0.166497,0.20299999999999996,0.882,0.839,75510917,1.1052631578947367
+9111,Watch cases and parts,Watch cases and parts thereof,0.001963,0.18600000000000005,0.865,0.685,20204,1.0613496932515338
+8517,Telephones,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data,including apparatus for communication in a wired or wireless network (such as a loc",0.120801,0.18999999999999995,0.789,0.654,89027206,0.9728729963008631
+7020,Other articles of glass,Other articles of glass:,0.053195,0.18400000000000005,0.721,0.842,2210542,0.8824969400244799
+7319,Articles for sewing of iron or steel,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included",0.089336,0.20099999999999996,0.702,0.838,381787,0.8775
+7410,Copper foil < 0.15 mm thick,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness(excluding any backing) not exceeding 0.15 mm",0.004628,0.19299999999999995,0.679,0.761,297523,0.8403465346534653
+2902,Cyclic hydrocarbons,Cyclic hydrocarbons,0.138607,0.18300000000000005,0.676,0.846,59402051,0.8264058679706603
+4903,Children's books,"Children's picture, drawing or coloring books",0.040787,0.18400000000000005,0.625,0.692,523751,0.7649938800489596
+7015,Clock or watch glasses and similar glasses,"Clock or watch glasses and similar glasses, glasses for noncorrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses",0.0081,0.18400000000000005,0.576,0.003,16180,0.7050183598531211
+8548,Waste and scrap of batteries,"Waste and scrap of primary cells, primary batteries and electric storage batteries; spent primary cells, spent primary batteries and spent electric storage batteries; electrical parts of machinery or apparatus, not specified or included elsewhere in this",0.033564,0.18899999999999995,0.505,0.703,1674883,0.6219211822660098
+8007,Other articles of tin,Other articles of tin:,0.027642,0.18899999999999995,0.472,0.728,157559,0.5812807881773399
+6810,"Articles of cement, of concrete or of artificial stone","Articles of cement, of concrete or of artificial stone, whether or not reinforced",0.178746,0.19899999999999995,0.41,0.68,25518345,0.511221945137157
+7308,"Structures and their parts, of iron or steel","Structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge sections, lock gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, sh",0.157247,0.19499999999999995,0.364,0.553,126291515,0.45161290322580644
+8450,Household- or laundry-type washing machines,"Household- or laundry-type washing machines, including machines which both wash and dry; parts thereof",0.050943,0.18700000000000006,0.337,0.626,9878235,0.41400491400491407
+7610,"Aluminum structures (bridges, towers etc)","Aluminum structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balus",0.150833,0.18999999999999995,0.289,0.64,34443894,0.35635018495684334
+9112,Clock cases,"Clock cases and cases of a similar type for other goods of this chapter, and parts thereof",0.076334,0.18500000000000005,0.286,0.003,29852,0.35049019607843135
+2846,Compounds of rare-earth metals,"Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium, or of mixtures of these metals",0.0,0.18600000000000005,0.255,0.566,0,0.3128834355828221
+3925,Plastic builders' ware,"Builders' ware of plastics, not elsewhere specified or included",0.076885,0.18300000000000005,0.246,0.668,15094857,0.30073349633251834
+8002,Tin waste and scrap,Tin waste and scrap,0.044537,0.18400000000000005,0.24,0.701,92662,0.2937576499388005
+8201,Handtools for gardening,"Hand tools of the following kinds and base metal parts thereof spades, shovels, mattocks, picks, hoes, forks and rakes; axes,bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges",0.007324,0.18300000000000005,0.236,0.559,184077,0.2885085574572127
+9307,Swords,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor",0.045477,0.18300000000000005,0.23,0.003,43625,0.28117359413202936
+9406,Prefabricated buildings,Prefabricated buildings:,0.163516,0.18300000000000005,0.229,0.63,22782352,0.2799511002444988
+4415,Packing boxes,"Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums, of wood; pallets, box-pallets and other load boards, of wood; pallet collars of wood",0.13727,0.18999999999999995,0.216,0.557,8389882,0.2663378545006165
+1601,Sausages,"Sausages and similar products, of meat, meat offal or blood; food preparations based on these products",0.003851,0.18200000000000005,0.177,0.615,322841,0.21611721611721613
+8402,Steam boilers,Steam or other vapor generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers; parts thereof,0.087876,0.18999999999999995,0.174,0.607,4648355,0.21454993834771885
+7116,Articles of precious stones,"Articles of natural or cultured pearls, precious or semi- precious stones (natural, synthetic or reconstructed)",0.040531,0.19199999999999995,0.168,0.729,1415882,0.207663782447466
+2834,"Nitrites, nitrates",Nitrites; nitrates,0.008719,0.19599999999999995,0.134,0.322,151926,0.16645962732919253
+4821,Paper labels,"Paper and paperboard labels of all kinds, whether or not printed",0.047665,0.18999999999999995,0.127,0.518,2901349,0.156596794081381
+7209,"Flat-rolled iron, width > 600mm, cold-rolled, not clad","Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated",0.037798,0.18200000000000005,0.084,0.638,6547669,0.10256410256410257
+3814,Organic composite solvents and thinners,"Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers",0.111841,0.19399999999999995,0.07,0.406,2894893,0.08674101610904585
+3406,Candles,"Candles, tapers and the like",0.097172,0.18200000000000005,0.059,0.712,5158389,0.07203907203907203
+7418,Household articles of copper,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper",0.19239,0.18500000000000005,0.053,0.657,1874631,0.06495098039215687
+9999,Commodities not specified according to kind,Commodities not specified according to kind,0.003329,0.19199999999999995,0.044,0.002,25019522,0.05438813349814585
+8452,Sewing machines,"Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof",0.041778,0.19999999999999996,0.042,0.666,2128892,0.052434456928838954
+6913,Ornamental ceramic articles,Statuettes and other ornamental ceramic articles,0.149909,0.20199999999999996,0.03,0.389,4174778,0.03754693366708385
+0401,Milk,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter",0.089042,0.18300000000000005,0.026,0.465,11149137,0.03178484107579462
+5501,Synthetic filament tow,Synthetic filament tow,0.073297,0.20899999999999996,0.022,0.519,881731,0.027777777777777776
+8309,"Stoppers, caps and lids of metal","Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers),capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, and parts thereof, of base metal",0.05736,0.18799999999999994,-0.017,0.451,6335487,-0.020910209102091022
+2942,Other organic compounds,Other organic compounds,0.092109,0.21099999999999997,-0.052,0.18,2650295,-0.06582278481012657
+3917,Plastic tubes and fittings,"Tubes, pipes and hoses and fittings therefor (for example, joints, elbows, flanges), of plastics",0.140911,0.18700000000000006,-0.057,0.457,55002159,-0.07002457002457003
+7210,"Flat rolled iron, width > 600mm, clad","Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, clad, plated or coated",0.114499,0.20299999999999996,-0.059,0.433,75695848,-0.07393483709273183
+5901,Stiffened textiles,"Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations",0.094869,0.18400000000000005,-0.062,0.525,676790,-0.0758873929008568
+8212,Razors,"Razors and razor blades (including razor blade blanks in strips), and base metal parts thereof",0.123476,0.18799999999999994,-0.085,0.498,6491138,-0.1045510455104551
+4808,Corrugated paper and paperboard,"Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 4803",0.121091,0.18400000000000005,-0.094,0.598,2969086,-0.11505507955936353
+1602,Other prepared or preserved meat,"Other prepared or preserved meat, meat offal or blood",0.006905,0.18400000000000005,-0.095,0.449,1664589,-0.11627906976744187
+5809,Woven fabric incorporating metal threads,"Woven fabrics of metal thread and woven fabrics of metalized yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, not elsewhere specified or included (229)",0.113991,0.19599999999999995,-0.121,0.002,37380,-0.15031055900621115
+7311,Containers for compressed or liquified gas,Containers for compressed or liquified gas,0.029278,0.19299999999999995,-0.141,0.617,1567862,-0.17450495049504947
+4205,Other articles of leather,Other articles of leather or of composition leather,0.060447,0.18600000000000005,-0.144,0.489,1873723,-0.17668711656441718
+5311,Woven fabrics of vegetable textile fibers,Woven fabrics of other vegetable textile fibers; woven fabrics of paper yarn:,0.093653,0.18200000000000005,-0.147,0.676,163171,-0.1794871794871795
+7310,"Tanks etc. < 300 liters, iron or steel","Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 liters, whether or not lined or heat insulated, but not fitted with mechanical or thermal",0.110833,0.19099999999999995,-0.15,0.562,10084330,-0.18518518518518517
+3209,"Paints and varnishes, aqueous","Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium",0.102914,0.18600000000000005,-0.158,0.47,8745806,-0.19386503067484664
+2502,Unroasted iron pyrites,Unroasted iron pyrites,0.006333,0.18500000000000005,-0.159,0.002,7536,-0.1948529411764706
+2938,Glycosides,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives",0.040304,0.18300000000000005,-0.163,0.591,859946,-0.1992665036674817
+7314,Cloth of iron or steel wire,"Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel",0.068004,0.19899999999999995,-0.164,0.392,5117747,-0.20448877805486285
+4707,Paper waste,Recovered (waste and scrap) paper and paperboard,0.049547,0.19399999999999995,-0.169,0.394,3958136,-0.2094175960346964
+9704,Postage or revenue stamps,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper) and the like, used or unused, other than those of heading 4907",0.071688,0.18700000000000006,-0.177,0.002,114114,-0.21744471744471744
+3211,Prepared driers,Prepared driers,0.115318,0.18500000000000005,-0.19,0.444,326368,-0.23284313725490197
+5703,"Carpets, tufted","Carpets and other textile floor coverings, tufted, whether or not made up",0.197276,0.18700000000000006,-0.198,0.497,16142004,-0.24324324324324328
+2820,Manganese oxides,Manganese oxides,0.193676,0.18500000000000005,-0.207,0.452,1008864,-0.2536764705882353
+5306,Flax yarn,Flax yarn,0.001881,0.18200000000000005,-0.264,0.464,10302,-0.32234432234432236
+0408,Egg yolks,"Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, molded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",0.003465,0.18600000000000005,-0.278,0.504,74906,-0.34110429447852764
+6803,Worked slate,Worked slate and articles of slate or of agglomerated slate:,0.108779,0.18500000000000005,-0.281,0.295,941399,-0.34436274509803927
+6309,Used clothes and textiles,Used clothes and textiles,0.028582,0.18300000000000005,-0.291,0.434,1807604,-0.35574572127139364
+5807,Labels and badges of textiles,"Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered",0.127786,0.20999999999999996,-0.283,0.422,1362385,-0.3577749683944374
+6001,"Pile fabrics, knit","Pile fabrics, including long pile fabrics and terry fabrics, knitted or crocheted",0.183837,0.20299999999999996,-0.306,0.001,13623576,-0.38345864661654133
+0207,Poultry,"Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen",0.003196,0.19099999999999995,-0.334,0.27,1306367,-0.4123456790123457
+4404,Strips and other pieces of wood,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like",0.143095,0.19399999999999995,-0.345,0.349,460306,-0.42750929368029733
+5609,"Articles of yarn, rope etc not elsewhere clasified","Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included:",0.126959,0.20399999999999996,-0.371,0.37,1304102,-0.46549560853199495
+7217,Wire of iron or nonalloy steel,Wire of iron or nonalloy steel,0.15471,0.20799999999999996,-0.379,0.309,15272656,-0.47793190416141235
+7216,Angles of iron or nonalloy steel,"Angles, shapes and sections of iron or nonalloy steel",0.077309,0.19199999999999995,-0.395,0.344,15306253,-0.48825710754017304
+2804,Silicon & rare gases,"Hydrogen, rare gases and other nonmetals",0.021988,0.19499999999999995,-0.407,0.454,3274529,-0.5049627791563275
+9705,Collectors pieces,Collections and collectors pieces,0.13179,0.18600000000000005,-0.417,0.262,3116369,-0.5116564417177915
+2509,Chalk,Chalk,0.018971,0.19299999999999995,-0.449,0.002,23481,-0.5556930693069306
+2716,Electrical energy,Electrical energy,0.0,0.19499999999999995,-0.448,0.304,0,-0.5558312655086849
+5808,Braids in piece,"Braids in the piece; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles",0.042714,0.20599999999999996,-0.442,0.415,224615,-0.5559748427672956
+2802,"Sulfur, sublimed or precipitated","Sulfur, sublimed or precipitated; colloidal sulfur",0.095332,0.19499999999999995,-0.449,0.126,433172,-0.5570719602977667
+7010,Glass containers for conveyance,"Carboys, bottles, flasks, jars, pots, vials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass",0.197938,0.20399999999999996,-0.455,0.318,36275013,-0.5708908406524467
+3503,Gelatin,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or colored) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 3501",0.005267,0.18799999999999994,-0.472,0.433,168327,-0.5805658056580565
+2208,Spirits < 80% alcohol,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 percent vol.; spirits, liqueurs and other spirituous beverages",0.012486,0.19399999999999995,-0.472,0.236,5673602,-0.5848822800495662
+7323,Household articles of iron or steel,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel",0.1086,0.18400000000000005,-0.48,0.253,20098535,-0.587515299877601
+8908,Floating structures for scrapping,Vessels and other floating structures for breaking up (scrapping),0.041937,0.19099999999999995,-0.498,0.492,492435,-0.6148148148148148
+2508,Clays,"Other clays (not including expanded clays of heading 6806), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths",0.0592,0.19599999999999995,-0.495,0.233,1626702,-0.6149068322981366
+0105,Fowl,"Live poultry of the following kinds Chickens, ducks, geese, turkeys and guineas",0.026793,0.19399999999999995,-0.512,0.36,1154879,-0.6344485749690211
+9614,Smoking pipes,"Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof:",0.03348,0.18799999999999994,-0.519,0.359,149340,-0.6383763837638377
+2832,Sulfites,Sulfites; thiosulfates,0.083666,0.19199999999999995,-0.519,0.485,594439,-0.6415327564894932
+1904,Cereal foods,"Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, cornflakes); cereals (other than corn (maize)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal)",0.190178,0.19499999999999995,-0.521,0.286,18903882,-0.6464019851116625
+2522,Quicklime,"Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825",0.051017,0.20499999999999996,-0.519,0.27,811877,-0.6520100502512562
+8609,Containers for multimodal transportation,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport,0.032472,0.19899999999999995,-0.544,0.001,4479693,-0.6783042394014963
+0808,Apples & pears,"Apples, pears and quinces, fresh",0.000818,0.18500000000000005,-0.558,0.332,91352,-0.6838235294117648
+7001,Cullet and other scraps of glass,Cullet and other waste and scrap of glass; glass in the mass:,0.000369,0.20299999999999996,-0.546,0.297,2716,-0.6842105263157895
+2828,Hyopchlorites,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites,0.009912,0.21099999999999997,-0.542,0.248,93460,-0.6860759493670886
+1512,Sunflower seed oil,"Sunflower-seed, safflower or cottonseed oil, and fractions thereof, whether or not refined, but not chemically modified",0.059775,0.18700000000000006,-0.569,0.116,12466491,-0.699017199017199
+7615,Household articles of aluminum,"Table, kitchen or other household articles and parts thereof, of aluminum; pot scourers and scouring or polishing pads, gloves and the like, of aluminum; sanitary ware and parts thereof, of aluminum",0.128868,0.19799999999999995,-0.562,0.327,9040718,-0.6998754669987547
+2518,Dolomite,"Dolomite whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; dolomite ramming mix",0.006981,0.20299999999999996,-0.559,0.29,38619,-0.7005012531328321
+2102,Yeasts,"Yeasts (active or inactive); other single-cell microorganisms, dead (but not including vaccines of heading 3002); prepared baking powders",0.194852,0.19699999999999995,-0.566,0.167,7511166,-0.7039800995024874
+6213,Handkerchiefs,Handkerchiefs,0.012137,0.19499999999999995,-0.572,0.447,23998,-0.7096774193548386
+7317,Nails and similar articles of iron or steel,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper:",0.003768,0.21599999999999997,-0.558,0.214,144895,-0.7108280254777071
+5810,Embroidery in the piece,"Embroidery in the piece, in strips or in motifs",0.120661,0.20999999999999996,-0.566,0.458,2755216,-0.7155499367888748
+0102,Bovine,Live bovine animals,0.0,0.18700000000000006,-0.587,0.219,0,-0.7211302211302212
+2006,"Vegetables, fruits and nuts, preserved by sugar","Vegetables, fruit, nuts, fruit-peel and other parts of plants preserved by sugar (drained, glacé or crystallized)",0.012044,0.19799999999999995,-0.583,0.343,125896,-0.7260273972602739
+2104,Soups and broths,Soups and broths and preparations therefor; homogenized composite food preparations,0.090005,0.20199999999999996,-0.588,0.159,4420154,-0.7359198998748435
+6401,Waterproof footwear,"Waterproof footwear with outer soles and uppers of rubber or plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes",0.14369,0.21899999999999997,-0.578,0.24,2572259,-0.7391304347826086
+0407,"Eggs, in shell","Birds eggs, in shell, fresh, preserved or cooked",0.048983,0.20699999999999996,-0.591,0.195,3204785,-0.7443324937027707
+0701,Potatoes,"Potatoes, fresh or chilled",0.012016,0.19299999999999995,-0.61,0.215,856839,-0.7549504950495048
+0402,"Milk, concentrated","Milk and cream, concentrated or containing added sugar or other sweetening matter",0.049016,0.18799999999999994,-0.617,0.166,12990081,-0.7589175891758917
+7204,Ferrous waste and scrap,Ferrous waste and scrap; remelting scrap ingots of iron or steel,0.093284,0.18700000000000006,-0.629,0.364,46431317,-0.7727272727272728
+2824,Lead oxides,Lead oxides; red lead and orange lead,0.0,0.20199999999999996,-0.634,0.002,0,-0.7934918648310387
+4302,Other tanned furskins,"Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 4303",0.001806,0.18600000000000005,-0.654,0.276,26029,-0.8024539877300614
+5211,Woven fabrics of cotton of < 85% weighing > 200 g/m2,"Woven fabrics of cotton, containing less than 85 percent by weight of cotton, mixed mainly or solely with man-made fibers, weighing more than 200 g/m2",0.102672,0.19799999999999995,-0.657,0.306,4199725,-0.8181818181818181
+6306,"Tents, tarpaulins, etc.","Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods",0.071647,0.23299999999999998,-0.64,0.132,5792172,-0.8333333333333334
+9605,Travel sets,"Travel sets for personal toilet, sewing or shoeor clothes cleaning (other than manicure and pedicure sets of heading 8214)",0.10167,0.18700000000000006,-0.713,0.292,506340,-0.875921375921376
+2904,"Sulfonated, nitrated derivatives of hydrocarbons","Sulfonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated",0.034183,0.18600000000000005,-0.718,0.207,834778,-0.8809815950920246
+9615,"Combs, hair-slides etc.","Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof",0.017197,0.18300000000000005,-0.722,0.001,592798,-0.882640586797066
+2203,Beer,In containers each holding over 4 liters,0.040642,0.19999999999999996,-0.715,0.144,8241241,-0.8926342072409488
+3602,"Prepared explosives, except gunpowder","Prepared explosives, except propellent powders",0.0,0.21199999999999997,-0.707,0.065,0,-0.8960709759188846
+5701,"Carpets, knotted","Carpets and other textile floor coverings, knotted, whether or not made up",0.050323,0.18899999999999995,-0.73,0.273,481625,-0.8990147783251231
+7901,Unwrought zinc,Unwrought zinc,0.035335,0.19199999999999995,-0.729,0.202,6109747,-0.9011124845488256
+2715,Bituminous mixtures,"Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)",0.001079,0.19399999999999995,-0.728,0.183,21368,-0.9021065675340767
+7602,"Waste or scrap, aluminium","Waste or scrap, aluminium",0.064442,0.20099999999999996,-0.742,0.199,14068911,-0.9275
+3603,Detonators,Safety fuses; detonating fuses; percussion or detonating caps; igniters; electric detonators,0.005075,0.20099999999999996,-0.755,0.155,125377,-0.94375
+0706,Carrots & turnips,"Carrots, turnips, salad beets (salad beetroot), salsify, celeriac, radishes and similar edible roots, fresh or chilled",0.004459,0.19499999999999995,-0.762,0.163,133572,-0.945409429280397
+2521,Limstone,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement",0.009865,0.22699999999999998,-0.742,0.168,111068,-0.958656330749354
+7603,Aluminum powders,Aluminum powders and flakes,0.178037,0.18500000000000005,-0.8,0.411,1736930,-0.9803921568627452
+6812,Asbestos fibres,"Fabricated asbestos fibers; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforc",0.184664,0.20099999999999996,-0.789,0.001,300897,-0.98625
+3103,Phosphatic fertilizers,"Mineral or chemical fertilizers, phosphatic",0.11266,0.18999999999999995,-0.802,0.117,3748669,-0.9889025893958077
+4304,Artificial fur,Artificial fur and articles thereof,0.067144,0.19599999999999995,-0.809,0.002,110750,-1.004968944099379
+1209,Seeds used for sowing,"Seeds, fruits and spores of a kind used for sowing",0.141715,0.19499999999999995,-0.824,0.147,14710761,-1.0223325062034738
+5204,Cotton sewing thread,"Cotton sewing thread, whether or not put up for retail sale",0.099447,0.22199999999999998,-0.816,0.001,161203,-1.0474967907573811
+8902,Fishing vessels,Fishing vessels; factory ships and other vessels for processing or preserving fishery products,0.005817,0.19399999999999995,-0.849,0.227,92260,-1.0520446096654275
+1104,Worked cereal grains,"Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground",0.059379,0.20499999999999996,-0.845,0.121,1865159,-1.0615577889447236
+2001,Pickled fruits and vegetables,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid",0.013333,0.21499999999999997,-0.835,0.111,420804,-1.0623409669211195
+2002,"Tomatoes, prepared or preserved",Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,0.000701,0.19799999999999995,-0.861,0.092,64429,-1.0722291407222913
+0707,Cucumbers,"Cucumbers, including gherkins, fresh or chilled",0.000686,0.20299999999999996,-0.868,0.141,29175,-1.0877192982456139
+2836,Carbonates,Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate,0.031699,0.20699999999999996,-0.868,-0.069,6190660,-1.093198992443325
+7802,Lead waste or scrap,Lead waste or scrap,0.0,0.20199999999999996,-0.888,0.146,0,-1.1113892365456821
+5511,"Yarn of synthetic staple fibers, for retail sale","Yarn (other than sewing thread) of man-made staple fibers, put up for retail sale",0.040853,0.19599999999999995,-0.912,0.124,230509,-1.132919254658385
+2005,"Other vegetables, prepared or preserved","Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006",0.02939,0.21499999999999997,-0.892,0.054,4761746,-1.1348600508905853
+0704,"Cabbages, cauliflowers, broccoli","Cabbages, cauliflower, kohlrabi, kale and similar edible brassicas, fresh or chilled",0.179932,0.20399999999999996,-0.906,0.224,9039131,-1.136762860727729
+6214,"Shawls, scarves, etc.","Shawls, scarves, mufflers,mantillas, veils and the like",0.065513,0.19599999999999995,-0.939,0.388,3036055,-1.1664596273291925
+1502,"Bovine, sheep and goat fats","Bovine, sheep and goat fats, raw or rendered",0.000406,0.19299999999999995,-0.944,0.08,14069,-1.1683168316831682
+0504,"Animal guts, except fish","Guts, bladders and stomachs of animals except fish",0.000606,0.19199999999999995,-0.972,0.225,33556,-1.2014833127317674
+5308,Yarn of other vegetable textile fibers,Yarn of other vegetable textile fibers; paper yarn,0.091272,0.21199999999999997,-0.965,0.001,95336,-1.2230671736375158
+1103,Cereal meals,"Cereal groats, meal and pellets",0.02121,0.21399999999999997,-0.97,0.021,384248,-1.2325285895806861
+0711,"Vegetables, provisionally preserved","Vegetables provisionally preserved (for example, by sulfur dioxide gas, in brine, in sulfur water or in other preservative solutions), but unsuitable in that state for immediate consumption",0.049599,0.22199999999999998,-0.977,0.042,429587,-1.2541720154043645
+2525,Mica,"Mica, including splittings; mica waste",0.002588,0.19399999999999995,-1.015,0.251,6260,-1.2577447335811647
+0809,Peaches & cherries,"Apricots, cherries, peaches (including nectarines), plums (including prune plums) and sloes, fresh",0.000753,0.19799999999999995,-1.015,-0.016,69245,-1.2640099626400993
+6302,House linen,"Bed linen, table linen, toilet linen and kitchen linen",0.055831,0.23399999999999999,-0.993,0.006,14725313,-1.2946544980443284
+0409,Honey,Amber or darker,0.03792,0.22499999999999998,-1.028,-0.073,927433,-1.324742268041237
+1005,Corn,Corn (maize),0.04557,0.19799999999999995,-1.076,0.13,29317030,-1.339975093399751
+XXXX,Trade data discrepancies,Trade data discrepancies,,0.23199999999999998,-1.032,0.0,1592467133,-1.3420026007802341
+4407,Wood sawn lengthwise,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm",0.139968,0.21799999999999997,-1.052,0.16,60666075,-1.343550446998723
+7203,Ferrous products from the reduction of iron ore,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 percent, in lumps, pellets or similar forms",1.5e-05,0.23399999999999999,-1.031,0.137,867,-1.3441981747066492
+9505,Christmas and other festivity articles,"Festive, carnival or other entertainment articles, including magic tricks and practical joke articles; parts and accessories thereof",0.088763,0.22399999999999998,-1.064,0.001,11094997,-1.3693693693693694
+0202,Beef (frozen),"Meat of bovine animals, frozen",0.000481,0.18400000000000005,-1.129,-0.017,184426,-1.3818849449204407
+6908,Glazed ceramic flags and pavers,"Glazed ceramic flags and paving, hearth or wall tiles; glazed ceramic mosaic cubes and the like, whether or not on a backing",0.039957,0.20299999999999996,-1.111,0.0,21653,-1.3922305764411027
+0602,Other live plants,"Other live plants (including their roots), cuttings and slips; mushroom spawn",0.101257,0.21499999999999997,-1.098,0.055,12486455,-1.3969465648854962
+6307,Other made up articles,"Other made up articles, including dress patterns",0.057394,0.23199999999999998,-1.084,0.109,11617371,-1.4096228868660599
+2524,Asbestos,Asbestos,0.0,0.18799999999999994,-1.153,-0.143,0,-1.4182041820418203
+5802,Terry cloth,"Terry toweling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703",0.03029,0.21599999999999997,-1.121,0.238,59039,-1.4280254777070063
+0709,Other vegetables,"Other vegetables, fresh or chilled",0.020065,0.22499999999999998,-1.111,-0.018,4242297,-1.431701030927835
+2805,Rare-earth metals,"Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury",0.000757,0.19599999999999995,-1.192,0.329,11520,-1.4807453416149068
+2501,Salt,"Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anticaking or free-flowing agents; sea water",0.023688,0.22499999999999998,-1.154,-0.054,1055783,-1.4871134020618555
+2529,Feldspar,"Feldspar; leucite, nepheline and nepheline syenite; fluorspar",0.035164,0.21599999999999997,-1.175,0.033,648398,-1.4968152866242037
+4403,Wood in the rough,"Wood in the rough, whether or not stripped of bark or sap-wood, or roughly squared",0.023719,0.19699999999999995,-1.214,0.173,3163553,-1.5099502487562189
+6117,"Other clothing accesories, knit","Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories",0.116156,0.22499999999999998,-1.186,0.2,4613812,-1.5283505154639174
+0805,Citrus fruit,"Citrus fruit, fresh or dried",0.004648,0.21699999999999997,-1.269,-0.138,875911,-1.6186224489795917
+2504,Natural graphite,Natural graphite,0.003503,0.20199999999999996,-1.3,0.263,22807,-1.6270337922403004
+0806,Grapes,"Grapes, fresh or dried",0.001011,0.19999999999999996,-1.307,-0.051,126344,-1.6317103620474405
+6304,Other furnishing articles,"Other furnishing articles, excluding those of heading 9404",0.13518,0.22499999999999998,-1.267,0.128,9004051,-1.6327319587628863
+7102,Diamonds,"Diamonds, whether or not worked, but not mounted or set",0.005174,0.20299999999999996,-1.303,0.144,5688526,-1.6328320802005012
+3104,Potassic fertilizers,"Mineral or chemical fertilizers, potassic",0.032854,0.19699999999999995,-1.313,-0.067,9071543,-1.6330845771144278
+0204,Lamb,"Meat of sheep or goats, fresh, chilled or frozen",0.00035,0.18600000000000005,-1.341,0.068,34147,-1.645398773006135
+0812,"Fruits and nuts, provisionally preserved","Fruit and nuts, provisionally preserved (for example, by sulfur dioxide gas, in brine, in sulfur water or in other preservative solutions), but unsuitable in that state for immediate consumption",0.00107,0.21099999999999997,-1.3,0.068,3584,-1.6455696202531644
+2607,Lead ore,Lead ores and concentrates,0.1997,0.20599999999999996,-1.346,-0.021,15600770,-1.6930817610062894
+8110,Antimony,"Antimony and articles thereof,including waste and scrap",0.0,0.236,-1.3,0.026,0,-1.6993464052287581
+2520,Gypsum,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulfate) whether or not colored, with or without small quantities of accelerators or retarders",0.020361,0.21399999999999997,-1.345,-0.019,356507,-1.7090216010165182
+2506,Quartz,"Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",0.018579,0.21699999999999997,-1.375,0.036,258362,-1.753826530612245
+0909,"Anise, fennel, etc.","Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries",0.038983,0.21699999999999997,-1.375,0.004,796372,-1.753826530612245
+2510,Natural calcium phosphates,"Natural calcium phosphates, natural aluminum calcium phosphates and phosphatic chalk",0.001991,0.19699999999999995,-1.417,-0.081,100703,-1.7624378109452736
+7103,Precious stones,"Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semi-precious stones, temporarily strung for convenience of transport",0.028522,0.236,-1.371,-0.055,3866553,-1.7921568627450981
+0702,Tomatoes,"Tomatoes, fresh or chilled",0.00247,0.21899999999999997,-1.408,-0.1,323034,-1.8005115089514065
+0810,Other fresh fruit,"Other fruit, fresh",0.023221,0.23399999999999999,-1.385,-0.141,7097379,-1.8057366362451108
+2503,"Sulphur, crude","Sulphur, crude or unrefined",0.006688,0.22099999999999997,-1.421,-0.222,302596,-1.8217948717948718
+2515,Marble,"Marble, travertine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular",0.086352,0.23199999999999998,-1.401,-0.076,1908631,-1.8218465539661899
+1504,Fish oils,"Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified",0.093239,0.22799999999999998,-1.421,0.002,4093428,-1.8382923673997413
+4102,Raw skins of sheep or lambs,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not with wool on or split, other than those excluded by note 1(c) to this chapter",0.0,0.19799999999999995,-1.48,-0.018,0,-1.843088418430884
+2511,Natural barium sulfate,"Natural barium sulfate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 2816",0.027519,0.22699999999999998,-1.473,-0.02,265998,-1.9031007751937985
+0104,Sheep,Live sheep and goats,0.0,0.20699999999999996,-1.514,-0.089,0,-1.906801007556675
+1508,Peanut oil,"Peanut (ground-nut) oil and its fractions, whether or not refined, but not chemically modified",0.027299,0.20099999999999996,-1.526,0.041,230989,-1.9075
+0807,Melons and papayas,"Melons (including watermelons) and papayas (papaws), fresh",0.011224,0.22699999999999998,-1.477,-0.129,584742,-1.9082687338501292
+0510,Animal products used in pharmaceuticals,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved:",0.020165,0.21399999999999997,-1.535,-0.133,130403,-1.9504447268106733
+1008,Other cereals,"Buckwheat, millet and canary seed; other cereals (including wild rice)",0.001947,0.22299999999999998,-1.522,-0.146,27015,-1.9562982005141387
+2304,Solid soybean residues,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soybean oil",0.000102,0.18899999999999995,-1.647,-0.025,40707,-2.028325123152709
+4101,Raw hides of bovines or equines,"Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split",0.0,0.22099999999999997,-1.589,0.036,0,-2.037179487179487
+2601,Iron ores and concentrates,"Iron ores and concentrates, including roasted iron pyrites",0.015208,0.22499999999999998,-1.583,-0.137,28614019,-2.0399484536082473
+1102,Cereal flours,Cereal flours other than of wheat or meslin,0.096866,0.238,-1.575,-0.167,1669420,-2.0642201834862384
+5101,Wool,"Wool, not carded or combed",0.0,0.18799999999999994,-1.698,-0.091,0,-2.0885608856088558
+0803,Bananas and plantains,"Bananas and plantains, fresh or dried",0.057873,0.278,-1.513,-0.214,9324393,-2.0926694329183957
+7402,Unrefined copper,Unrefined copper; copper anodes for electrolytic refining,0.021018,0.21599999999999997,-1.648,-0.004,2949866,-2.0993630573248407
+2516,Granite,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",0.049704,0.22999999999999998,-1.629,-0.16,923937,-2.11284046692607
+0603,Cut flowers,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared",0.030283,0.20799999999999996,-1.696,-0.078,3410585,-2.1387137452711222
+2611,Tungsten ore,Tungsten ores and concentrates:,0.0,0.21399999999999997,-1.744,-0.071,0,-2.216010165184244
+1006,Rice,Rice,0.0081,0.258,-1.666,-0.156,3152782,-2.2422611036339166
+2614,Titanium ore,Titanium ores and concentrates,0.065577,0.25,-1.721,-0.183,1935707,-2.2916111850865515
+5307,Yarn of textile bast fibers,Yarn of jute or of other textile bast fibers of heading 5303,0.001383,0.22299999999999998,-1.783,-0.0,6090,-2.2917737789203083
+2825,"Metal base oxides, n.e.c.","Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides",0.034388,0.18400000000000005,-1.876,0.06,5710700,-2.296205630354957
+0814,Peel of citrus fruit or melons,"Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulfur water or in other preservative solutions",0.019223,0.21699999999999997,-1.824,-0.001,21853,-2.326530612244898
+0708,Legumes,"Leguminous vegetables, shelled or unshelled, fresh or chilled",0.188918,0.23199999999999998,-1.814,-0.246,3660619,-2.3589076723016906
+1007,Grain sorghum,Grain sorghum,0.0,0.18899999999999995,-1.951,-0.113,0,-2.402709359605911
+1201,Soya beans,Soya beans,0.00133,0.18700000000000006,-2.003,-0.187,1499211,-2.460687960687961
+0713,"Legumes, dried","Dried leguminous vegetables, shelled, whether or not skinned or split",0.187944,0.238,-1.922,-0.328,36730848,-2.5190039318479682
+1202,Peanuts,"Peanuts (ground-nuts), not roasted or otherwise cooked, whether or not shelled or broken",0.082355,0.22599999999999998,-2.046,-0.226,4285207,-2.6399999999999997
+1207,Other oil seeds,"Other oil seeds and oleaginous fruits, whether or not broken",0.118635,0.241,-2.014,-0.294,9097588,-2.65
+2305,Solid peanut residues,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of peanut (ground-nut) oil",0.003712,0.20699999999999996,-2.243,-0.0,3651,-2.8249370277078083
+0703,"Onions, shallots, garlic","Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled",0.107176,0.248,-2.135,-0.29,11149190,-2.835325365205843
+2530,Mineral substances n.e.c.,Mineral substances not elsewhere specified or included,0.08315,0.22599999999999998,-2.254,-0.001,14289269,-2.9083870967741934
+2709,"Petroleum oils, crude","Petroleum oils and oils obtained from bituminous minerals, crude",0.121741,0.22799999999999998,-2.269,-0.172,1599367354,-2.9353169469598965
+5102,Animal hair,"Fine or coarse animal hair, not carded or combed",0.0,0.21899999999999997,-2.38,-0.001,0,-3.043478260869565
+1802,Cocoa residues,"Cocoa shells, husks, skins and other cocoa waste",0.062689,0.22899999999999998,-2.38,0.0,411883,-3.082901554404145
+2617,Other ores,Other ores and concentrates,0.0,0.23099999999999998,-2.455,-0.312,0,-3.188311688311688
+2602,Manganese > 47% by weight,Containing 47 percent or more by weight of manganese,0.000458,0.241,-2.446,-0.31,33273,-3.2184210526315793
+2610,Chromium ore,Chromium ores and concentrates,0.0,0.237,-2.469,-0.001,0,-3.231675392670157
+5310,Woven fabrics of jute or of other textile bast fibers,Woven fabrics of jute or of other textile bast fibers of heading 5303,0.001016,0.29000000000000004,-2.31,-0.115,2168,-3.248945147679325
+2612,Uranium ore,Uranium or thorium ores and concentrates,0.182004,0.22899999999999998,-2.538,-0.114,1934326,-3.287564766839378
+5201,Raw cotton,"Cotton, not carded or combed:",0.039647,0.25,-2.562,-0.361,7466419,-3.4114513981358185
