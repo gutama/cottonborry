@@ -9,38 +9,48 @@ This project implements a comprehensive economic complexity analysis framework b
 
 The framework identifies diversification opportunities by minimizing a cost function that captures constraints imposed by an economy's pattern of specialization, providing a target-oriented optimization layer beyond traditional relatedness-complexity diagrams.
 
+## Data Source
+
+This analysis uses **real Harvard Atlas of Economic Complexity** trade data:
+- **Classification**: HS92 (Harmonized System 1992)
+- **Coverage**: 242 countries, 2485 products, years 1995-2023
+- **Pre-calculated metrics**: RCA, PCI, COG (Complexity Outlook Gain), and distance
+
+### Required Data Files
+
+Download from the Harvard Atlas data repository and place in your data directory:
+- `hs92_country_product_year_4.csv` - Main country-product trade data with pre-calculated metrics
+- `product_hs92.csv` - Product metadata and names
+- `umap_layout_hs92.csv` - UMAP coordinates for Product Space visualization
+- `top_edges_hs92.csv` - Product Space network edges
+
 ## Key Features
 
 ### 1. Economic Complexity Metrics
-- **Economic Complexity Index (ECI)**: Measures the knowledge intensity of an economy
-- **Product Complexity Index (PCI)**: Measures the knowledge required to produce a product
-- **Method of Reflections**: Iterative algorithm for calculating ECI and PCI
+- **Economic Complexity Index (ECI)**: Measures the knowledge intensity of an economy using Method of Reflections
+- **Product Complexity Index (PCI)**: Measures the knowledge required to produce a product (pre-calculated from Harvard Atlas)
+- **Revealed Comparative Advantage (RCA)**: Pre-calculated export competitiveness indicators
 
 ### 2. Product Space Analysis
 - **Proximity Matrix**: Measures relatedness between products based on co-export patterns
 - **Density**: Quantifies how close a product is to a country's current capabilities
-- **Product Space Network**: Visualizes the network of related products
+- **UMAP Visualization**: Modern dimensionality reduction for Product Space network
 
-### 3. Optimization Framework
-- **Cost Function**: Balances complexity gains with feasibility constraints
-- **Multiple Strategies**: Complexity-focused, feasibility-focused, and balanced optimization
-- **Strategic Recommendations**: Data-driven identification of diversification opportunities
+### 3. Strategic Diversification Analysis
+- **Complexity Outlook Gain (COG)**: Identifies high-potential diversification targets
+- **Distance Metrics**: Measures feasibility of acquiring new export capabilities
+- **Balanced Optimization**: Trade-off between complexity gains and feasibility constraints
 
 ## Project Structure
 
 ```
 cottonborry/
-├── economic_complexity_indonesia.ipynb  # Main analysis notebook
-├── create_realistic_data.py             # Generate synthetic trade data
-├── fetch_trade_data.py                  # Download from public APIs
-├── download_data.py                     # Helper for Google Drive downloads
-├── data/                                # Trade data directory
-│   ├── country_product_exports.csv      # Full dataset (20 countries, 40 products)
-│   └── indonesia_exports.csv            # Indonesia-specific data
-└── figures/                             # Generated visualizations
-    ├── eci_by_country.png
-    ├── relatedness_complexity_indonesia.png
-    └── product_space_network_indonesia.png
+├── indonesia_economic_complexity_FIXED.ipynb  # Main analysis notebook (uses real data)
+├── output/                                    # Generated analysis results
+└── figures/                                   # Generated visualizations
+    ├── eci_rankings.png
+    ├── product_space_indonesia.png
+    └── strategic_opportunities.png
 ```
 
 ## Getting Started
@@ -52,73 +62,73 @@ pip install numpy pandas matplotlib seaborn networkx scipy scikit-learn
 
 ### Running the Analysis
 
-1. **Generate/Load Data**:
-   ```bash
-   # Option 1: Create synthetic realistic data
-   python create_realistic_data.py
-
-   # Option 2: Download from public APIs (requires external access)
-   python fetch_trade_data.py
-   ```
+1. **Prepare Data**:
+   - Download Harvard Atlas data files to your data directory
+   - Update the `DATA_DIR` path in the notebook configuration
 
 2. **Run Analysis**:
-   Open and execute `economic_complexity_indonesia.ipynb` in Jupyter:
+   Open and execute `indonesia_economic_complexity_FIXED.ipynb` in Jupyter:
    ```bash
-   jupyter notebook economic_complexity_indonesia.ipynb
+   jupyter notebook indonesia_economic_complexity_FIXED.ipynb
    ```
 
 3. **View Results**:
    The notebook generates:
-   - Economic Complexity Index rankings
-   - Product Complexity Index for all products
-   - Strategic diversification recommendations for Indonesia
-   - Visualizations in the `figures/` directory
+   - Indonesia's trade summary (2023: $253B exports, 1,212 products traded)
+   - RCA analysis (225 products with comparative advantage)
+   - ECI/PCI calculations using Method of Reflections
+   - Strategic diversification recommendations
+   - Product Space visualizations
+
+## Key Results (2023 Data)
+
+### Indonesia's Trade Profile
+- **Total Exports**: $253,349,308,484
+- **Total Imports**: $205,765,435,201
+- **Trade Balance**: $47,583,873,283
+- **Products with RCA ≥ 1**: 225
+
+### Top Exports by RCA
+1. Lignite (RCA: 75.0)
+2. Edible animal products (RCA: 49.6)
+3. Nickel mattes (RCA: 43.9)
+4. Stainless steel ingots (RCA: 43.7)
+5. Palm oil (RCA: 41.7)
+
+### Most Complex Exports
+1. Musical instruments, wind (PCI: 1.853)
+2. Ceramic wares for technical use (PCI: 1.633)
+3. Electrical machines with individual functions (PCI: 1.430)
+4. Transparent paper (PCI: 1.257)
+5. Electrical resistors (PCI: 1.235)
 
 ## Methodology
 
-### 1. Data Processing
-- Calculate Revealed Comparative Advantage (RCA) for country-product pairs
-- Convert to binary matrix (RCA ≥ 1)
+### 1. Data Loading
+- Load multi-country trade data from Harvard Atlas
+- Filter for analysis year (default: 2023)
+- Merge with product metadata for interpretable results
 
-### 2. Complexity Calculation
+### 2. RCA & Complexity Calculation
+- Use pre-calculated RCA from Harvard Atlas
+- Build binary country-product matrix (M_cp = 1 if RCA ≥ 1)
 - Apply Method of Reflections to compute ECI and PCI
-- Standardize indices (mean=0, std=1)
 
 ### 3. Product Space Construction
 - Calculate product proximity: φ_{i,j} = min{P(RCA_i|RCA_j), P(RCA_j|RCA_i)}
 - Compute density for all products relative to Indonesia's basket
+- Visualize using UMAP layout from Harvard Atlas
 
-### 4. Optimization
-- Define cost function balancing complexity and feasibility
-- Run greedy optimization with different α/β parameters
-- Generate strategic recommendations
-
-## Key Results (Sample Data)
-
-### Indonesia's Economic Complexity
-- **Current ECI**: Calculated relative to 20 comparison countries
-- **Current Exports**: Mix of resource-based and manufactured products
-- **Complexity Distribution**: Analyzed across low/medium/high complexity tiers
-
-### Strategic Recommendations
-The optimization framework identifies products that:
-1. Build on existing capabilities (high density/relatedness)
-2. Move toward higher complexity (higher PCI)
-3. Balance feasibility with ambition
-
-## Visualization Examples
-
-1. **ECI by Country**: Bar chart showing economic complexity rankings
-2. **Relatedness-Complexity Diagram**: Scatter plot of opportunities with optimal recommendations highlighted
-3. **Product Space Network**: Network visualization showing product relationships
+### 4. Strategic Analysis
+- Identify products with high COG (Complexity Outlook Gain)
+- Analyze distance (feasibility) for potential diversification targets
+- Generate strategic recommendations balancing complexity and feasibility
 
 ## Data Sources
 
-When using real data, recommended sources include:
-- **UN Comtrade**: Official international trade statistics
-- **Atlas of Economic Complexity**: Pre-processed complexity data
+- **Harvard Atlas of Economic Complexity**: Primary data source with pre-calculated metrics
+- **UN Comtrade**: Underlying official international trade statistics
 - **BACI**: CEPII's harmonized trade database
-- **OEC (Observatory of Economic Complexity)**: Visualization and data platform
 
 ## References
 
@@ -142,12 +152,13 @@ Contributions are welcome! Key areas for enhancement:
 - Sector-specific constraints
 - Environmental/sustainability considerations
 
-## Author
+## Authors
 
-Ginanjar Utama
+- Ginanjar Utama
+- Nadira Firinda
 
 ## Acknowledgments
 
 - César A. Hidalgo and Viktor Stojkoski for the optimization framework
-- The Atlas of Economic Complexity team
-- UN Comtrade for trade statistics
+- The Growth Lab at Harvard University for the Atlas of Economic Complexity data
+- UN Comtrade for underlying trade statistics
