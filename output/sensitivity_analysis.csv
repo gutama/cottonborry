@@ -1,0 +1,51 @@
+alpha,rank,hs_code,product_name,pci,density,score,in_robust_core
+0.3,1,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.949,0.182,0.370675,True
+0.3,2,8523,Sound storage media,1.123,0.228,0.367848,False
+0.3,3,8534,Electronic printed circuits,1.267,0.216,0.367241,False
+0.3,4,3818,Chemical elements for electronics,1.821,0.182,0.363198,True
+0.3,5,8542,Electronic integrated circuits,1.532,0.195,0.361911,True
+0.3,6,8548,Waste and scrap of batteries,1.414,0.198,0.357109,False
+0.3,7,5005,Yarn from silk waste,1.668,0.176,0.345555,True
+0.3,8,8456,Machines for working materials by laser and similar means,1.916,0.165,0.344316,True
+0.3,9,8473,Parts and accessories for office machines,1.163,0.199,0.337964,False
+0.3,10,9110,"Clock movements, complete, unassembled",1.285,0.181,0.325871,False
+0.4,1,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.949,0.182,0.469859,True
+0.4,2,3818,Chemical elements for electronics,1.821,0.182,0.457264,True
+0.4,3,8542,Electronic integrated circuits,1.532,0.195,0.444759,True
+0.4,4,8456,Machines for working materials by laser and similar means,1.916,0.165,0.439996,True
+0.4,5,8534,Electronic printed circuits,1.267,0.216,0.438312,False
+0.4,6,8548,Waste and scrap of batteries,1.414,0.198,0.434689,False
+0.4,7,5005,Yarn from silk waste,1.668,0.176,0.432699,True
+0.4,8,8523,Sound storage media,1.123,0.228,0.431432,False
+0.4,9,2935,Sulfonamides,1.569,0.166,0.407675,False
+0.4,10,2919,Phosporic esters,1.793,0.15,0.404657,False
+0.5,1,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.949,0.182,0.595582,True
+0.5,2,3818,Chemical elements for electronics,1.821,0.182,0.575693,True
+0.5,3,8456,Machines for working materials by laser and similar means,1.916,0.165,0.562263,True
+0.5,4,8542,Electronic integrated circuits,1.532,0.195,0.546571,True
+0.5,5,5005,Yarn from silk waste,1.668,0.176,0.541819,True
+0.5,6,8548,Waste and scrap of batteries,1.414,0.198,0.529124,False
+0.5,7,8534,Electronic printed circuits,1.267,0.216,0.523137,False
+0.5,8,3705,"Photographic film, developed",2.256,0.121,0.522471,False
+0.5,9,2919,Phosporic esters,1.793,0.15,0.518604,False
+0.5,10,2934,Nucleic acids and their salts,1.794,0.146,0.511785,False
+0.6,1,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.949,0.182,0.754946,True
+0.6,2,3818,Chemical elements for electronics,1.821,0.182,0.724794,True
+0.6,3,8456,Machines for working materials by laser and similar means,1.916,0.165,0.718507,True
+0.6,4,3705,"Photographic film, developed",2.256,0.121,0.700032,False
+0.6,5,5005,Yarn from silk waste,1.668,0.176,0.678458,True
+0.6,6,8542,Electronic integrated circuits,1.532,0.195,0.67169,True
+0.6,7,2919,Phosporic esters,1.793,0.15,0.664637,False
+0.6,8,2934,Nucleic acids and their salts,1.794,0.146,0.65771,False
+0.6,9,8113,Cermets,1.891,0.13,0.648026,False
+0.6,10,8548,Waste and scrap of batteries,1.414,0.198,0.644074,False
+0.7,1,9010,"Apparatus and equipment for photographic laboratories, n.e.c.",1.949,0.182,0.956951,True
+0.7,2,3705,"Photographic film, developed",2.256,0.121,0.937936,False
+0.7,3,8456,Machines for working materials by laser and similar means,1.916,0.165,0.918168,True
+0.7,4,3818,Chemical elements for electronics,1.821,0.182,0.912512,True
+0.7,5,2919,Phosporic esters,1.793,0.15,0.851792,False
+0.7,6,5005,Yarn from silk waste,1.668,0.176,0.849554,True
+0.7,7,8113,Cermets,1.891,0.13,0.846968,False
+0.7,8,2934,Nucleic acids and their salts,1.794,0.146,0.845243,False
+0.7,9,8542,Electronic integrated circuits,1.532,0.195,0.825451,True
+0.7,10,7221,"Bars of stainless steel, hot-rolled",1.725,0.14,0.812065,False
